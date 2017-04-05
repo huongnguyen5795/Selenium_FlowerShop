@@ -1,0 +1,30 @@
+2017-04-02 09:55:44,734 INFO  [Log] **************************************************************************************** 
+2017-04-02 09:55:44,735 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-02 09:55:44,735 INFO  [Log] **************************************************************************************** 
+2017-04-02 09:55:46,187 INFO  [Log] Excel sheet opened 
+2017-04-02 09:55:46,187 INFO  [Log] Excel sheet opened 
+2017-04-02 09:56:00,383 INFO  [Log] New driver instantiated 
+2017-04-02 09:56:01,376 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-02 09:56:02,602 INFO  [Log] Browser full screen 
+2017-04-02 09:56:03,324 INFO  [Log] Web application launched successfully 
+2017-04-02 09:56:03,324 INFO  [Log] New driver instantiated 
+2017-04-02 09:56:03,351 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-02 09:56:03,377 INFO  [Log] Browser full screen 
+2017-04-02 09:56:07,092 INFO  [Log] Web application launched successfully 
+2017-04-02 09:56:07,201 INFO  [Log] Username text box is found on the Login Page 
+2017-04-02 09:56:09,228 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-02 09:56:09,356 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-02 09:56:09,920 INFO  [Log] LogIn successful 
+2017-04-02 09:56:10,266 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-02 09:56:11,290 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-02 09:56:11,673 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-02 09:56:11,791 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-02 09:56:11,903 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-02 09:56:12,863 INFO  [Log] excel02/04/2017 
+2017-04-02 09:56:12,864 INFO  [Log] excel02/04/2017 
+2017-04-02 09:56:12,893 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-02 09:56:13,267 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-02 09:56:13,721 INFO  [Log] Test Case 25 Passed because of Verification 
+2017-04-02 09:56:13,726 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-02 09:56:13,726 INFO  [Log] X 
+2017-04-02 09:56:13,726 INFO  [Log] X 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36956" started-at="2017-04-02T02:55:44Z" finished-at="2017-04-02T02:56:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36956" started-at="2017-04-02T02:55:44Z" finished-at="2017-04-02T02:56:21Z">
+      <class name="com.utc.flowershop.testcase.TestCase_ShoppingCart">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_ShoppingCart@2ef9b8bc]" name="beforeMethod" is-config="true" duration-ms="22707" started-at="2017-04-02T09:55:44Z" finished-at="2017-04-02T09:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="shopCarts_TC025()[pri:0, instance:com.utc.flowershop.testcase.TestCase_ShoppingCart@2ef9b8bc]" name="shopCarts_TC025" duration-ms="6626" started-at="2017-04-02T09:56:07Z" finished-at="2017-04-02T09:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopCarts_TC025 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_ShoppingCart@2ef9b8bc]" name="afterMethod" is-config="true" duration-ms="7602" started-at="2017-04-02T09:56:13Z" finished-at="2017-04-02T09:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.utc.flowershop.testcase.TestCase_ShoppingCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
