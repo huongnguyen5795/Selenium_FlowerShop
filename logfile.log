@@ -730,3 +730,87 @@
 2017-04-06 10:33:37,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
 2017-04-06 10:33:37,708 INFO  [Log] X 
 2017-04-06 10:33:37,708 INFO  [Log] X 
+2017-04-06 14:52:04,981 INFO  [Log] **************************************************************************************** 
+2017-04-06 14:52:05,018 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 14:52:05,019 INFO  [Log] **************************************************************************************** 
+2017-04-06 14:52:07,878 INFO  [Log] Excel sheet opened 
+2017-04-06 14:52:07,878 INFO  [Log] Excel sheet opened 
+2017-04-06 14:52:27,381 INFO  [Log] New driver instantiated 
+2017-04-06 14:52:27,797 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 14:52:27,969 INFO  [Log] Browser full screen 
+2017-04-06 14:52:29,867 INFO  [Log] Web application launched successfully 
+2017-04-06 14:52:29,867 INFO  [Log] New driver instantiated 
+2017-04-06 14:52:30,020 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 14:52:30,221 INFO  [Log] Browser full screen 
+2017-04-06 14:52:30,394 INFO  [Log] Web application launched successfully 
+2017-04-06 14:52:30,590 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 14:52:33,201 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 14:52:33,625 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 14:52:34,118 INFO  [Log] LogIn successful 
+2017-04-06 14:52:34,177 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 14:52:35,462 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 14:52:35,842 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 14:52:36,522 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 14:52:36,655 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 14:52:37,622 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 14:52:39,830 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 14:52:40,898 INFO  [Log] Test Case 26 Passed because of Verification 
+2017-04-06 14:52:40,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 14:52:40,903 INFO  [Log] X 
+2017-04-06 14:52:40,903 INFO  [Log] X 
+2017-04-06 15:00:46,266 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:00:46,267 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:00:46,267 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:00:47,677 INFO  [Log] Excel sheet opened 
+2017-04-06 15:00:47,677 INFO  [Log] Excel sheet opened 
+2017-04-06 15:01:53,324 INFO  [Log] New driver instantiated 
+2017-04-06 15:01:54,282 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 15:01:54,494 INFO  [Log] Browser full screen 
+2017-04-06 15:01:56,633 INFO  [Log] Web application launched successfully 
+2017-04-06 15:01:56,633 INFO  [Log] New driver instantiated 
+2017-04-06 15:01:56,676 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:01:56,700 INFO  [Log] Browser full screen 
+2017-04-06 15:01:58,276 INFO  [Log] Web application launched successfully 
+2017-04-06 15:01:58,404 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 15:02:00,540 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 15:02:00,855 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 15:02:01,262 INFO  [Log] LogIn successful 
+2017-04-06 15:02:01,311 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 15:02:01,914 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 15:02:02,354 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 15:02:02,490 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 15:02:02,604 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 15:02:02,787 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 15:02:03,264 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 15:02:03,736 INFO  [Log] Test Case 27 Passed because of Verification 
+2017-04-06 15:02:03,740 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:02:03,740 INFO  [Log] X 
+2017-04-06 15:02:03,741 INFO  [Log] X 
+2017-04-06 15:02:11,447 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:02:11,447 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:02:11,447 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:02:11,790 INFO  [Log] Excel sheet opened 
+2017-04-06 15:02:11,790 INFO  [Log] Excel sheet opened 
+2017-04-06 15:02:24,689 INFO  [Log] New driver instantiated 
+2017-04-06 15:02:24,966 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 15:02:26,015 INFO  [Log] Browser full screen 
+2017-04-06 15:02:27,329 INFO  [Log] Web application launched successfully 
+2017-04-06 15:02:27,329 INFO  [Log] New driver instantiated 
+2017-04-06 15:02:27,456 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:02:27,492 INFO  [Log] Browser full screen 
+2017-04-06 15:02:27,844 INFO  [Log] Web application launched successfully 
+2017-04-06 15:02:27,937 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 15:02:30,711 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 15:02:31,026 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 15:02:31,675 INFO  [Log] LogIn successful 
+2017-04-06 15:02:31,727 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 15:02:32,270 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 15:02:32,630 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 15:02:32,753 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 15:02:32,878 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 15:02:33,042 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 15:02:33,372 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 15:02:33,767 INFO  [Log] Test Case 28 Passed because of Verification 
+2017-04-06 15:02:33,768 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:02:33,768 INFO  [Log] X 
+2017-04-06 15:02:33,768 INFO  [Log] X 

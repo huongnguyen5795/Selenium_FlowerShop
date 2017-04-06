@@ -341,6 +341,48 @@ public class ShoppingCart_Action extends TestBase {
 		}
 	}
 	
+	public static void testCase026() {
+		try {
+			logIn();
+			ShoppingCart_Page.linkDatMua_NgayQuanTrong_TC().click();
+			ShoppingCart_Page.link_ThanhToan().click();
+			ShoppingCart_Page.txt_DiaChi().clear();
+			ShoppingCart_Page.txt_NgayGiaoHang().sendKeys(ExcelUtils.getCellData(26, 3));
+			ShoppingCart_Page.txt_DiaChi().sendKeys(ExcelUtils.getCellData(26, 4));
+		} catch (Exception e) {
+			Log.error("Test Case 026 Failed because of Verification");
+			e.printStackTrace();
+		}
+	}
+	
+	public static void testCase027() {
+		try {
+			logIn();
+			ShoppingCart_Page.linkDatMua_NgayQuanTrong_TC().click();
+			ShoppingCart_Page.link_ThanhToan().click();
+			ShoppingCart_Page.txt_DiaChi().clear();
+			ShoppingCart_Page.txt_NgayGiaoHang().sendKeys(ExcelUtils.getCellData(27, 3));
+			ShoppingCart_Page.txt_DiaChi().sendKeys(ExcelUtils.getCellData(27, 4));
+		} catch (Exception e) {
+			Log.error("Test Case 027 Failed because of Verification");
+			e.printStackTrace();
+		}
+	}
+	
+	public static void testCase028() {
+		try {
+			logIn();
+			ShoppingCart_Page.linkDatMua_NgayQuanTrong_TC().click();
+			ShoppingCart_Page.link_ThanhToan().click();
+			ShoppingCart_Page.txt_DiaChi().clear();
+			ShoppingCart_Page.txt_NgayGiaoHang().sendKeys(ExcelUtils.getCellData(28, 3));
+			ShoppingCart_Page.txt_DiaChi().sendKeys(ExcelUtils.getCellData(28, 4));
+		} catch (Exception e) {
+			Log.error("Test Case 028 Failed because of Verification");
+			e.printStackTrace();
+		}
+	}
+	
 	public static String getSoLuong() throws Exception {
 		String soLuong = "";
 		element = driver.findElement(
