@@ -35,24 +35,18 @@ public class TestCase_LogIn {
 	public ExtentTest test;
 	public ExtentTestInterruptedException testexception;
 
+
 	@BeforeSuite
 	public void BeforeSuite() {
 		String workingDir = System.getProperty("C:/Users/NguyenHuong/git/Selenium_FlowerShop/src/test/resources");
-		Log.info("concho");
 		extent = new ExtentReports("C:/Users/NguyenHuong/git/Selenium_FlowerShop/Reports/TestReports_SignIn.html",
 				true);
-		Log.info("000");
 		extent.loadConfig(new File(workingDir + "/extent-config.xml"));
 		extent.addSystemInfo("Environment", "QA");
-		Log.info("1");
-
 	}
 
 	@BeforeMethod
 	public void BeforeMethod() throws Exception {
-		test.assignAuthor("HuongNguyen");
-		test.assignCategory("Environment", "QA");
-		Log.info("2");
 		DOMConfigurator.configure("log4j.xml");
 		Log.startTestCase("LogIn");
 		ExcelUtils.setExcelFile(Constant.pathTestData + Constant.fileTestData, "LogIn");
@@ -74,6 +68,8 @@ public class TestCase_LogIn {
 	public void signIn_TC001() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC001");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase001();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -94,6 +90,8 @@ public class TestCase_LogIn {
 	public void signIn_TC002() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC002");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase002();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -114,6 +112,8 @@ public class TestCase_LogIn {
 	public void signIn_TC003() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC003");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase003();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -133,6 +133,8 @@ public class TestCase_LogIn {
 	public void signIn_TC004() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC004");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase004();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -152,6 +154,8 @@ public class TestCase_LogIn {
 	public void signIn_TC005() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC005");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase005();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -171,6 +175,8 @@ public class TestCase_LogIn {
 	public void signIn_TC006() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC006");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase006();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -193,6 +199,8 @@ public class TestCase_LogIn {
 	public void signIn_TC007() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC007");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase007();
 			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
 				Log.info("Check display message form SignIn ");
@@ -215,6 +223,8 @@ public class TestCase_LogIn {
 	public void signIn_TC008() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC008");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase008();
 			if (!LogIn_Page.message().isDisplayed()) {
 				Log.info("Check display link thong tin tai khoan form SignIn ");
@@ -236,6 +246,8 @@ public class TestCase_LogIn {
 	public void signIn_TC009() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC009");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase009();
 			if (!LogIn_Page.message().isDisplayed()) {
 				Log.info("Check display link thong tin tai khoan form SignIn ");
@@ -258,6 +270,8 @@ public class TestCase_LogIn {
 	public void signIn_TC010() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC010");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase010();
 			if (!LogIn_Page.message().isDisplayed()) {
 				Log.info("Check display link thong tin tai khoan form SignIn ");
@@ -280,6 +294,8 @@ public class TestCase_LogIn {
 	public void signIn_TC011() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC011");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase011();
 			Thread.sleep(5000);
 			if (LogIn_Page.link_thongTinTK().isDisplayed()) {
@@ -301,6 +317,8 @@ public class TestCase_LogIn {
 	public void signIn_TC012() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC012");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			if (LogIn_Page.link_dangKy().isDisplayed()) {
 				LogIn_Page.link_dangKy().click();
 				Log.info("Click Link Dang Ky");
@@ -326,6 +344,8 @@ public class TestCase_LogIn {
 	public void signIn_TC013() throws Exception {
 		try {
 			test = extent.startTest("SignIn_TC013");
+			test.assignAuthor("HuongNguyen");
+			test.assignCategory("Environment", "QA");
 			if (LogIn_Page.link_foundPass().isDisplayed()) {
 				LogIn_Page.link_foundPass().click();
 				Log.info("Click Link quen mat khau");
