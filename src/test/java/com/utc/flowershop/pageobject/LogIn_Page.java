@@ -24,6 +24,7 @@ public class LogIn_Page extends TestBase {
 	public static void test_failed(int row, String message) throws Exception {
 		Utility.takeScreenshot(driver, ExcelUtils.getCellData(row, 0));
 		ExcelUtils.setCellData("Failed ", row, 4);
+		ExcelUtils.setCellData("" + message, row, 6);
 		ExcelUtils.setCellData("Failed : " + message, row, 6);
 		Log.error("Test Case " + row + " Failed because of Verification" + message);
 	}
