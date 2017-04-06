@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="246.842" tests="13" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="721.892" tests="28" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_101\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="D:\Nam4ky2\NCKH\Code\selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6623821989887404880.tmp"/>
+    <property name="classworlds.conf" value="D:\Nam4ky2\NCKH\Code\selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7889893776562120641.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1258"/>
     <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_101\bin;D:\Nam4ky2\download\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\Skype\Phone\;D:\Nam4ky2\download\eclipse-jee-mars-R-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -62,17 +62,32 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="signIn_TC001" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.439"/>
-  <testcase name="signIn_TC002" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.022"/>
-  <testcase name="signIn_TC003" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.988"/>
-  <testcase name="signIn_TC004" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.782"/>
-  <testcase name="signIn_TC005" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.709"/>
-  <testcase name="signIn_TC006" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.504"/>
-  <testcase name="signIn_TC007" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.771"/>
-  <testcase name="signIn_TC008" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.678"/>
-  <testcase name="signIn_TC009" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="6.917"/>
-  <testcase name="signIn_TC010" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.94"/>
-  <testcase name="signIn_TC011" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="9.912"/>
-  <testcase name="signIn_TC012" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.37"/>
-  <testcase name="signIn_TC013" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="2.244"/>
+  <testcase name="shopCarts_TC001" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="8.013"/>
+  <testcase name="shopCarts_TC002" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="11.076"/>
+  <testcase name="shopCarts_TC003" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="10.035"/>
+  <testcase name="shopCarts_TC004" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="2.909"/>
+  <testcase name="shopCarts_TC005" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.39"/>
+  <testcase name="shopCarts_TC006" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.81"/>
+  <testcase name="shopCarts_TC007" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="7.074"/>
+  <testcase name="shopCarts_TC008" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.805"/>
+  <testcase name="shopCarts_TC009" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.305"/>
+  <testcase name="shopCarts_TC010" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="8.856"/>
+  <testcase name="shopCarts_TC011" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.484"/>
+  <testcase name="shopCarts_TC012" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.65"/>
+  <testcase name="shopCarts_TC013" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.961"/>
+  <testcase name="shopCarts_TC014" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.053"/>
+  <testcase name="shopCarts_TC015" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.446"/>
+  <testcase name="shopCarts_TC016" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="3.066"/>
+  <testcase name="shopCarts_TC017" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.625"/>
+  <testcase name="shopCarts_TC018" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="7.617"/>
+  <testcase name="shopCarts_TC019" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.008"/>
+  <testcase name="shopCarts_TC020" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.687"/>
+  <testcase name="shopCarts_TC021" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.285"/>
+  <testcase name="shopCarts_TC022" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.952"/>
+  <testcase name="shopCarts_TC023" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="6.094"/>
+  <testcase name="shopCarts_TC024" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.429"/>
+  <testcase name="shopCarts_TC025" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.562"/>
+  <testcase name="shopCarts_TC026" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.904"/>
+  <testcase name="shopCarts_TC027" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="17.473"/>
+  <testcase name="shopCarts_TC028" classname="com.utc.flowershop.testcase.TestCase_ShoppingCart" time="5.974"/>
 </testsuite>

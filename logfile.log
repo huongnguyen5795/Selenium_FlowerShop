@@ -1,816 +1,747 @@
-2017-04-06 10:01:41,257 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:01:41,258 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:01:41,258 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:01:42,664 INFO  [Log] Excel sheet opened 
-2017-04-06 10:01:42,664 INFO  [Log] Excel sheet opened 
-2017-04-06 10:02:36,588 INFO  [Log] New driver instantiated 
-2017-04-06 10:02:37,548 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:02:39,035 INFO  [Log] Browser full screen 
-2017-04-06 10:02:41,274 INFO  [Log] Web application launched successfully 
-2017-04-06 10:02:41,387 INFO  [Log] New driver instantiated 
-2017-04-06 10:02:41,793 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:02:42,193 INFO  [Log] Browser full screen 
-2017-04-06 10:02:43,964 INFO  [Log] Web application launched successfully 
-2017-04-06 10:04:34,981 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:04:34,982 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:04:34,982 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:04:36,403 INFO  [Log] Excel sheet opened 
-2017-04-06 10:04:36,404 INFO  [Log] Excel sheet opened 
-2017-04-06 10:04:49,367 INFO  [Log] New driver instantiated 
-2017-04-06 10:04:49,462 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:04:50,965 INFO  [Log] Browser full screen 
-2017-04-06 10:04:52,404 INFO  [Log] Web application launched successfully 
-2017-04-06 10:04:52,405 INFO  [Log] New driver instantiated 
-2017-04-06 10:04:52,814 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:04:52,847 INFO  [Log] Browser full screen 
-2017-04-06 10:04:53,866 INFO  [Log] Web application launched successfully 
-2017-04-06 10:05:22,280 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:05:22,282 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:05:22,282 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:05:23,675 INFO  [Log] Excel sheet opened 
-2017-04-06 10:05:23,676 INFO  [Log] Excel sheet opened 
-2017-04-06 10:05:35,702 INFO  [Log] New driver instantiated 
-2017-04-06 10:05:35,744 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:05:36,053 INFO  [Log] Browser full screen 
-2017-04-06 10:05:37,632 INFO  [Log] Web application launched successfully 
-2017-04-06 10:05:37,633 INFO  [Log] New driver instantiated 
-2017-04-06 10:05:38,260 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:05:38,353 INFO  [Log] Browser full screen 
-2017-04-06 10:05:40,983 INFO  [Log] Web application launched successfully 
-2017-04-06 10:05:40,991 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:05:40,998 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:05:40,998 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:05:41,014 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:05:41,016 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:05:41,026 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:05:41,026 INFO  [Log] X 
-2017-04-06 10:05:41,026 INFO  [Log] X 
-2017-04-06 10:05:43,539 INFO  [Log] 2 
-2017-04-06 10:05:43,555 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:05:43,555 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:05:43,556 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:05:43,788 INFO  [Log] Excel sheet opened 
-2017-04-06 10:05:43,788 INFO  [Log] Excel sheet opened 
-2017-04-06 10:05:55,839 INFO  [Log] New driver instantiated 
-2017-04-06 10:05:55,945 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:05:56,022 INFO  [Log] Browser full screen 
-2017-04-06 10:05:57,369 INFO  [Log] Web application launched successfully 
-2017-04-06 10:05:57,369 INFO  [Log] New driver instantiated 
-2017-04-06 10:05:57,393 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:05:57,416 INFO  [Log] Browser full screen 
-2017-04-06 10:05:59,344 INFO  [Log] Web application launched successfully 
-2017-04-06 10:05:59,345 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:05:59,346 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:05:59,346 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:05:59,349 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:05:59,349 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:05:59,350 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:05:59,350 INFO  [Log] X 
-2017-04-06 10:05:59,350 INFO  [Log] X 
-2017-04-06 10:09:33,108 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:09:33,109 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:09:33,109 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:09:34,521 INFO  [Log] Excel sheet opened 
-2017-04-06 10:09:34,521 INFO  [Log] Excel sheet opened 
-2017-04-06 10:09:45,886 INFO  [Log] New driver instantiated 
-2017-04-06 10:09:46,609 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:09:46,725 INFO  [Log] Browser full screen 
-2017-04-06 10:09:48,256 INFO  [Log] Web application launched successfully 
-2017-04-06 10:09:48,256 INFO  [Log] New driver instantiated 
-2017-04-06 10:09:48,293 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:09:48,746 INFO  [Log] Browser full screen 
-2017-04-06 10:09:49,490 INFO  [Log] Web application launched successfully 
-2017-04-06 10:09:49,497 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:09:49,503 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:09:49,503 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:09:49,506 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:09:49,509 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:09:49,518 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:09:49,518 INFO  [Log] X 
-2017-04-06 10:09:49,518 INFO  [Log] X 
-2017-04-06 10:09:51,437 INFO  [Log] 2 
-2017-04-06 10:09:51,454 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:09:51,454 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:09:51,454 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:09:51,679 INFO  [Log] Excel sheet opened 
-2017-04-06 10:09:51,679 INFO  [Log] Excel sheet opened 
-2017-04-06 10:10:01,913 INFO  [Log] New driver instantiated 
-2017-04-06 10:10:02,182 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:10:03,048 INFO  [Log] Browser full screen 
-2017-04-06 10:10:06,370 INFO  [Log] Web application launched successfully 
-2017-04-06 10:10:06,370 INFO  [Log] New driver instantiated 
-2017-04-06 10:10:06,416 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:10:06,448 INFO  [Log] Browser full screen 
-2017-04-06 10:10:06,922 INFO  [Log] Web application launched successfully 
-2017-04-06 10:10:06,923 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:10:06,923 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:10:06,923 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:10:06,926 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:10:06,927 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:10:06,927 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:10:06,928 INFO  [Log] X 
-2017-04-06 10:10:06,928 INFO  [Log] X 
-2017-04-06 10:11:36,823 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:11:36,824 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:11:36,824 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:11:38,243 INFO  [Log] Excel sheet opened 
-2017-04-06 10:11:38,243 INFO  [Log] Excel sheet opened 
-2017-04-06 10:11:48,631 INFO  [Log] New driver instantiated 
-2017-04-06 10:11:49,289 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:11:49,364 INFO  [Log] Browser full screen 
-2017-04-06 10:11:51,514 INFO  [Log] Web application launched successfully 
-2017-04-06 10:11:51,514 INFO  [Log] New driver instantiated 
-2017-04-06 10:11:51,870 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:11:51,904 INFO  [Log] Browser full screen 
-2017-04-06 10:11:52,287 INFO  [Log] Web application launched successfully 
-2017-04-06 10:11:52,297 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:11:52,302 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:11:52,302 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:11:52,305 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:11:52,311 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:11:52,321 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:11:52,321 INFO  [Log] X 
-2017-04-06 10:11:52,322 INFO  [Log] X 
-2017-04-06 10:11:54,293 INFO  [Log] 2 
-2017-04-06 10:11:54,310 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:11:54,310 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:11:54,310 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:11:54,548 INFO  [Log] Excel sheet opened 
-2017-04-06 10:11:54,548 INFO  [Log] Excel sheet opened 
-2017-04-06 10:12:05,157 INFO  [Log] New driver instantiated 
-2017-04-06 10:12:05,211 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:12:06,023 INFO  [Log] Browser full screen 
-2017-04-06 10:12:07,230 INFO  [Log] Web application launched successfully 
-2017-04-06 10:12:07,231 INFO  [Log] New driver instantiated 
-2017-04-06 10:12:07,508 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:12:07,549 INFO  [Log] Browser full screen 
-2017-04-06 10:12:08,318 INFO  [Log] Web application launched successfully 
-2017-04-06 10:12:08,319 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:12:08,319 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:12:08,319 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:12:08,323 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:12:08,324 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:12:08,324 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:12:08,325 INFO  [Log] X 
-2017-04-06 10:12:08,325 INFO  [Log] X 
-2017-04-06 10:14:19,271 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:14:19,272 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:14:19,272 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:14:20,787 INFO  [Log] Excel sheet opened 
-2017-04-06 10:14:20,787 INFO  [Log] Excel sheet opened 
-2017-04-06 10:14:31,733 INFO  [Log] New driver instantiated 
-2017-04-06 10:14:32,338 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:14:32,413 INFO  [Log] Browser full screen 
-2017-04-06 10:14:33,245 INFO  [Log] Web application launched successfully 
-2017-04-06 10:14:33,245 INFO  [Log] New driver instantiated 
-2017-04-06 10:14:33,400 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:14:33,628 INFO  [Log] Browser full screen 
-2017-04-06 10:14:33,942 INFO  [Log] Web application launched successfully 
-2017-04-06 10:14:33,955 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:14:33,963 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:14:33,963 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:14:33,966 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:14:33,969 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:14:33,977 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:14:33,977 INFO  [Log] X 
-2017-04-06 10:14:33,977 INFO  [Log] X 
-2017-04-06 10:14:35,074 INFO  [Log] 2 
-2017-04-06 10:14:35,092 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:14:35,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:14:35,092 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:14:35,323 INFO  [Log] Excel sheet opened 
-2017-04-06 10:14:35,323 INFO  [Log] Excel sheet opened 
-2017-04-06 10:14:46,206 INFO  [Log] New driver instantiated 
-2017-04-06 10:14:46,353 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:14:47,311 INFO  [Log] Browser full screen 
-2017-04-06 10:14:49,388 INFO  [Log] Web application launched successfully 
-2017-04-06 10:14:49,388 INFO  [Log] New driver instantiated 
-2017-04-06 10:14:49,420 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:14:49,617 INFO  [Log] Browser full screen 
-2017-04-06 10:14:49,960 INFO  [Log] Web application launched successfully 
-2017-04-06 10:14:49,960 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:14:49,960 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:14:49,961 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:14:49,963 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:14:49,963 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:14:49,964 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:14:49,964 INFO  [Log] X 
-2017-04-06 10:14:49,964 INFO  [Log] X 
-2017-04-06 10:15:42,198 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:15:42,221 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:15:42,221 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:15:43,677 INFO  [Log] Excel sheet opened 
-2017-04-06 10:15:43,677 INFO  [Log] Excel sheet opened 
-2017-04-06 10:15:54,595 INFO  [Log] New driver instantiated 
-2017-04-06 10:15:54,837 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:15:54,920 INFO  [Log] Browser full screen 
-2017-04-06 10:15:55,645 INFO  [Log] Web application launched successfully 
-2017-04-06 10:15:55,645 INFO  [Log] New driver instantiated 
-2017-04-06 10:15:56,122 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:15:56,571 INFO  [Log] Browser full screen 
-2017-04-06 10:15:57,107 INFO  [Log] Web application launched successfully 
-2017-04-06 10:15:57,115 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:15:57,120 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:15:57,120 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:15:57,123 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:15:57,126 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:15:57,138 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:15:57,138 INFO  [Log] X 
-2017-04-06 10:15:57,138 INFO  [Log] X 
-2017-04-06 10:15:58,834 INFO  [Log] 2 
-2017-04-06 10:15:58,852 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:15:58,852 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:15:58,852 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:15:59,076 INFO  [Log] Excel sheet opened 
-2017-04-06 10:15:59,076 INFO  [Log] Excel sheet opened 
-2017-04-06 10:16:09,785 INFO  [Log] New driver instantiated 
-2017-04-06 10:16:10,583 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:16:10,711 INFO  [Log] Browser full screen 
-2017-04-06 10:16:11,652 INFO  [Log] Web application launched successfully 
-2017-04-06 10:16:11,652 INFO  [Log] New driver instantiated 
-2017-04-06 10:16:11,688 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:16:11,790 INFO  [Log] Browser full screen 
-2017-04-06 10:16:12,539 INFO  [Log] Web application launched successfully 
-2017-04-06 10:16:12,540 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:16:12,540 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:16:12,540 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:16:12,547 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:16:12,547 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:16:12,548 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:16:12,548 INFO  [Log] X 
-2017-04-06 10:16:12,548 INFO  [Log] X 
-2017-04-06 10:20:41,302 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:20:41,303 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:20:41,303 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:20:42,730 INFO  [Log] Excel sheet opened 
-2017-04-06 10:20:42,730 INFO  [Log] Excel sheet opened 
-2017-04-06 10:20:53,058 INFO  [Log] New driver instantiated 
-2017-04-06 10:20:53,193 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:20:54,193 INFO  [Log] Browser full screen 
-2017-04-06 10:20:56,245 INFO  [Log] Web application launched successfully 
-2017-04-06 10:20:56,245 INFO  [Log] New driver instantiated 
-2017-04-06 10:20:56,296 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:20:56,667 INFO  [Log] Browser full screen 
-2017-04-06 10:20:56,889 INFO  [Log] Web application launched successfully 
-2017-04-06 10:20:56,900 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:20:56,908 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:20:56,908 ERROR [Log] Test Case 001 Failed because of Verification 
-2017-04-06 10:20:56,914 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:20:56,917 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:20:56,928 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:20:56,928 INFO  [Log] X 
-2017-04-06 10:20:56,928 INFO  [Log] X 
-2017-04-06 10:20:59,244 INFO  [Log] 2 
-2017-04-06 10:20:59,257 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:20:59,257 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:20:59,257 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:20:59,491 INFO  [Log] Excel sheet opened 
-2017-04-06 10:20:59,491 INFO  [Log] Excel sheet opened 
-2017-04-06 10:21:10,067 INFO  [Log] New driver instantiated 
-2017-04-06 10:21:10,139 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:21:10,859 INFO  [Log] Browser full screen 
-2017-04-06 10:21:11,900 INFO  [Log] Web application launched successfully 
-2017-04-06 10:21:11,900 INFO  [Log] New driver instantiated 
-2017-04-06 10:21:12,334 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:21:12,374 INFO  [Log] Browser full screen 
-2017-04-06 10:21:12,573 INFO  [Log] Web application launched successfully 
-2017-04-06 10:21:12,574 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:21:12,574 ERROR [Log] UserName text box is not found on the Login Page 
-2017-04-06 10:21:12,574 ERROR [Log] Test Case 002 Failed because of Verification 
-2017-04-06 10:21:12,578 ERROR [Log] Message is found on the Login_Pagenull 
-2017-04-06 10:21:12,578 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : null 
-2017-04-06 10:21:12,579 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:21:12,579 INFO  [Log] X 
-2017-04-06 10:21:12,579 INFO  [Log] X 
-2017-04-06 10:21:58,508 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:21:58,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:21:58,509 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:21:59,911 INFO  [Log] Excel sheet opened 
-2017-04-06 10:21:59,911 INFO  [Log] Excel sheet opened 
-2017-04-06 10:22:10,351 INFO  [Log] New driver instantiated 
-2017-04-06 10:22:11,345 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:22:11,448 INFO  [Log] Browser full screen 
-2017-04-06 10:22:12,170 INFO  [Log] Web application launched successfully 
-2017-04-06 10:22:12,170 INFO  [Log] New driver instantiated 
-2017-04-06 10:22:12,218 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:22:12,265 INFO  [Log] Browser full screen 
-2017-04-06 10:22:12,485 INFO  [Log] Web application launched successfully 
-2017-04-06 10:22:12,495 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:22:12,664 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:22:16,660 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:22:16,692 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:22:16,811 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:22:16,904 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:22:16,938 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:22:17,357 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:22:17,397 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:22:17,439 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:22:19,399 INFO  [Log] Test Case 1 Passed because of Verification 
-2017-04-06 10:22:19,403 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:22:19,403 INFO  [Log] X 
-2017-04-06 10:22:19,403 INFO  [Log] X 
-2017-04-06 10:22:27,058 INFO  [Log] 2 
-2017-04-06 10:22:27,089 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:22:27,089 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:22:27,089 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:22:27,355 INFO  [Log] Excel sheet opened 
-2017-04-06 10:22:27,355 INFO  [Log] Excel sheet opened 
-2017-04-06 10:23:09,806 INFO  [Log] New driver instantiated 
-2017-04-06 10:23:10,090 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:23:12,873 INFO  [Log] Browser full screen 
-2017-04-06 10:23:14,739 INFO  [Log] Web application launched successfully 
-2017-04-06 10:23:14,740 INFO  [Log] New driver instantiated 
-2017-04-06 10:23:15,695 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:23:16,249 INFO  [Log] Browser full screen 
-2017-04-06 10:23:16,774 INFO  [Log] Web application launched successfully 
-2017-04-06 10:23:16,775 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:23:16,875 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:23:24,450 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:23:24,451 INFO  [Log] Pass word picked from Excel is 05071996 
-2017-04-06 10:23:24,700 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:23:24,795 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:23:24,831 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:23:25,364 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:23:25,620 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:23:25,675 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:23:26,007 INFO  [Log] Test Case 2 Passed because of Verification 
-2017-04-06 10:23:26,008 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:23:26,008 INFO  [Log] X 
-2017-04-06 10:23:26,008 INFO  [Log] X 
-2017-04-06 10:25:19,603 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:25:19,604 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:25:19,604 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:25:21,079 INFO  [Log] Excel sheet opened 
-2017-04-06 10:25:21,080 INFO  [Log] Excel sheet opened 
-2017-04-06 10:25:31,854 INFO  [Log] New driver instantiated 
-2017-04-06 10:25:32,924 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:25:33,004 INFO  [Log] Browser full screen 
-2017-04-06 10:25:35,765 INFO  [Log] Web application launched successfully 
-2017-04-06 10:25:35,765 INFO  [Log] New driver instantiated 
-2017-04-06 10:25:35,836 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:25:35,872 INFO  [Log] Browser full screen 
-2017-04-06 10:25:36,833 INFO  [Log] Web application launched successfully 
-2017-04-06 10:25:36,844 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:25:37,091 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:25:37,258 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:25:37,260 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:25:39,467 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:25:39,527 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:25:39,565 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:25:39,932 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:25:39,970 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:25:40,014 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:25:40,466 INFO  [Log] Test Case 1 Passed because of Verification 
-2017-04-06 10:25:40,470 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:25:40,470 INFO  [Log] X 
-2017-04-06 10:25:40,470 INFO  [Log] X 
-2017-04-06 10:25:41,376 INFO  [Log] 2 
-2017-04-06 10:25:41,427 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:25:41,427 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:25:41,427 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:25:41,670 INFO  [Log] Excel sheet opened 
-2017-04-06 10:25:41,671 INFO  [Log] Excel sheet opened 
-2017-04-06 10:25:52,241 INFO  [Log] New driver instantiated 
-2017-04-06 10:25:52,343 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:25:53,175 INFO  [Log] Browser full screen 
-2017-04-06 10:25:55,180 INFO  [Log] Web application launched successfully 
-2017-04-06 10:25:55,180 INFO  [Log] New driver instantiated 
-2017-04-06 10:25:55,505 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:25:55,559 INFO  [Log] Browser full screen 
-2017-04-06 10:25:56,486 INFO  [Log] Web application launched successfully 
-2017-04-06 10:25:56,487 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:25:56,591 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:25:56,770 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:25:56,771 INFO  [Log] Pass word picked from Excel is 05071996 
-2017-04-06 10:25:57,899 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:25:58,108 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:25:58,355 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:25:58,698 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:25:58,737 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:25:58,770 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:25:59,014 INFO  [Log] Test Case 2 Passed because of Verification 
-2017-04-06 10:25:59,015 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:25:59,015 INFO  [Log] X 
-2017-04-06 10:25:59,015 INFO  [Log] X 
-2017-04-06 10:29:34,268 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:29:34,269 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:29:34,269 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:29:35,697 INFO  [Log] Excel sheet opened 
-2017-04-06 10:29:35,697 INFO  [Log] Excel sheet opened 
-2017-04-06 10:29:46,704 INFO  [Log] New driver instantiated 
-2017-04-06 10:29:47,679 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:29:47,781 INFO  [Log] Browser full screen 
-2017-04-06 10:29:51,087 INFO  [Log] Web application launched successfully 
-2017-04-06 10:29:51,087 INFO  [Log] New driver instantiated 
-2017-04-06 10:29:51,118 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:29:51,317 INFO  [Log] Browser full screen 
-2017-04-06 10:29:51,523 INFO  [Log] Web application launched successfully 
-2017-04-06 10:29:51,536 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:29:51,647 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:29:51,869 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:29:51,871 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:29:53,985 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:29:54,041 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:29:54,075 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:29:54,440 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:29:54,484 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:29:54,539 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:29:54,968 INFO  [Log] Test Case 1 Passed because of Verification 
-2017-04-06 10:29:54,972 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:29:54,973 INFO  [Log] X 
-2017-04-06 10:29:54,973 INFO  [Log] X 
-2017-04-06 10:29:55,849 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:29:55,850 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:29:55,850 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:29:56,098 INFO  [Log] Excel sheet opened 
-2017-04-06 10:29:56,098 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:06,318 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:06,459 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:30:07,217 INFO  [Log] Browser full screen 
-2017-04-06 10:30:08,226 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:08,226 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:08,346 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:30:08,473 INFO  [Log] Browser full screen 
-2017-04-06 10:30:09,020 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:09,022 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:30:09,126 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:30:11,374 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:30:11,374 INFO  [Log] Pass word picked from Excel is 05071996 
-2017-04-06 10:30:11,679 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:30:12,158 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:30:12,334 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:30:12,705 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:30:12,749 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:30:12,786 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:30:13,047 INFO  [Log] Test Case 2 Passed because of Verification 
-2017-04-06 10:30:13,048 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:30:13,048 INFO  [Log] X 
-2017-04-06 10:30:13,048 INFO  [Log] X 
-2017-04-06 10:30:13,630 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:13,630 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:30:13,630 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:13,787 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:13,787 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:23,984 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:24,023 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:30:24,721 INFO  [Log] Browser full screen 
-2017-04-06 10:30:25,486 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:25,487 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:25,575 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:30:25,604 INFO  [Log] Browser full screen 
-2017-04-06 10:30:25,915 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:25,915 INFO  [Log] User name picked from Excel is nguyenthihuong 
-2017-04-06 10:30:26,814 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:30:28,639 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:30:28,640 INFO  [Log] Pass word picked from Excel is 05071997 
-2017-04-06 10:30:28,695 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:30:28,827 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:30:28,862 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:30:29,307 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:30:29,507 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:30:29,545 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:30:29,907 INFO  [Log] Test Case 3 Passed because of Verification 
-2017-04-06 10:30:29,908 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:30:29,908 INFO  [Log] X 
-2017-04-06 10:30:29,908 INFO  [Log] X 
-2017-04-06 10:30:30,586 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:30,586 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:30:30,586 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:30,729 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:30,729 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:41,787 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:42,623 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:30:43,682 INFO  [Log] Browser full screen 
-2017-04-06 10:30:44,710 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:44,710 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:44,776 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:30:45,009 INFO  [Log] Browser full screen 
-2017-04-06 10:30:45,459 INFO  [Log] Web application launched successfully 
-2017-04-06 10:30:45,460 INFO  [Log] User name picked from Excel is  
-2017-04-06 10:30:45,569 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:30:46,320 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:30:46,321 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:30:46,585 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:30:46,645 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:30:46,683 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:30:47,018 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:30:47,069 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:30:47,103 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:30:47,242 INFO  [Log] Test Case 4 Passed because of Verification 
-2017-04-06 10:30:47,243 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:30:47,243 INFO  [Log] X 
-2017-04-06 10:30:47,243 INFO  [Log] X 
-2017-04-06 10:30:47,619 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:47,619 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:30:47,619 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:30:47,741 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:47,741 INFO  [Log] Excel sheet opened 
-2017-04-06 10:30:58,318 INFO  [Log] New driver instantiated 
-2017-04-06 10:30:59,106 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:31:00,025 INFO  [Log] Browser full screen 
-2017-04-06 10:31:01,283 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:01,283 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:01,379 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:31:01,433 INFO  [Log] Browser full screen 
-2017-04-06 10:31:01,617 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:01,618 INFO  [Log] User name picked from Excel is  
-2017-04-06 10:31:01,758 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:31:01,899 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:31:01,900 INFO  [Log] Pass word picked from Excel is nguyenthihuongnguyenthihuongnghuong 
-2017-04-06 10:31:01,965 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:31:02,214 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:31:02,245 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:31:03,092 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:31:03,133 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:31:03,170 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:31:03,329 INFO  [Log] Test Case 5 Passed because of Verification 
-2017-04-06 10:31:03,330 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:31:03,330 INFO  [Log] X 
-2017-04-06 10:31:03,330 INFO  [Log] X 
-2017-04-06 10:31:03,761 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:03,761 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:31:03,762 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:03,879 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:03,879 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:14,363 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:14,490 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:31:15,268 INFO  [Log] Browser full screen 
-2017-04-06 10:31:16,376 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:16,376 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:16,423 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:31:16,477 INFO  [Log] Browser full screen 
-2017-04-06 10:31:17,707 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:17,707 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongng 
-2017-04-06 10:31:17,846 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:31:20,179 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:31:20,179 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:31:20,249 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:31:20,319 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:31:20,367 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:31:20,742 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:31:21,052 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:31:21,086 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:31:21,211 INFO  [Log] Test Case 6 Passed because of Verification 
-2017-04-06 10:31:21,212 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:31:21,212 INFO  [Log] X 
-2017-04-06 10:31:21,212 INFO  [Log] X 
-2017-04-06 10:31:21,700 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:21,700 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:31:21,701 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:21,845 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:21,849 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:32,151 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:32,988 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:31:33,094 INFO  [Log] Browser full screen 
-2017-04-06 10:31:34,785 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:34,786 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:34,948 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:31:34,981 INFO  [Log] Browser full screen 
-2017-04-06 10:31:35,295 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:35,295 INFO  [Log] User name picked from Excel is nguyenthihuong 
-2017-04-06 10:31:35,398 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:31:37,382 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:31:37,382 INFO  [Log] Pass word picked from Excel is  
-2017-04-06 10:31:38,065 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:31:38,280 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:31:38,312 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:31:38,673 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:31:38,894 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:31:38,942 INFO  [Log] Check display message form SignIn  
-2017-04-06 10:31:39,072 INFO  [Log] Test Case 7 Passed because of Verification 
-2017-04-06 10:31:39,073 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:31:39,073 INFO  [Log] X 
-2017-04-06 10:31:39,073 INFO  [Log] X 
-2017-04-06 10:31:39,594 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:39,594 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:31:39,594 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:39,707 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:39,707 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:50,000 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:50,115 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:31:51,196 INFO  [Log] Browser full screen 
-2017-04-06 10:31:51,986 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:51,986 INFO  [Log] New driver instantiated 
-2017-04-06 10:31:52,025 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:31:52,082 INFO  [Log] Browser full screen 
-2017-04-06 10:31:52,317 INFO  [Log] Web application launched successfully 
-2017-04-06 10:31:52,318 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongng 
-2017-04-06 10:31:53,114 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:31:53,461 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:31:53,461 INFO  [Log] Pass word picked from Excel is nguyenthihuongnguyenthihuongng 
-2017-04-06 10:31:55,507 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:31:55,708 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:31:55,745 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:31:56,308 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:31:56,726 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:31:57,998 ERROR [Log] Test Case 8 Failed because of VerificationÐãng nh?p không thành công khi tên tài kho?n , m?t kh?u = 30 k? t? có trong CSDL || Ten dang ky, mat khau b? gioi han  
-2017-04-06 10:31:57,999 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:31:57,999 INFO  [Log] X 
-2017-04-06 10:31:57,999 INFO  [Log] X 
-2017-04-06 10:31:58,488 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:58,488 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:31:58,488 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:31:58,603 INFO  [Log] Excel sheet opened 
-2017-04-06 10:31:58,603 INFO  [Log] Excel sheet opened 
-2017-04-06 10:32:09,413 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:09,464 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:32:09,580 INFO  [Log] Browser full screen 
-2017-04-06 10:32:11,176 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:11,176 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:11,345 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:32:11,371 INFO  [Log] Browser full screen 
-2017-04-06 10:32:11,557 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:11,558 INFO  [Log] User name picked from Excel is nguyenthihuong 
-2017-04-06 10:32:11,702 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:32:16,367 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:32:16,367 INFO  [Log] Pass word picked from Excel is nguyenthihuongnguyenthihuongng 
-2017-04-06 10:32:16,404 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:32:16,997 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:32:17,207 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:32:17,504 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:32:17,529 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:32:18,495 ERROR [Log] Test Case 9 Failed because of VerificationÐãng nh?p không thành công khi tên tài kho?n < 30 k? t? có trong CSDL , m?t kh?u = 30 k? t? có trong CSDL || Ten dang ky, mat khau b? gioi han 
-2017-04-06 10:32:18,496 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:32:18,496 INFO  [Log] X 
-2017-04-06 10:32:18,496 INFO  [Log] X 
-2017-04-06 10:32:19,107 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:32:19,107 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:32:19,108 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:32:19,232 INFO  [Log] Excel sheet opened 
-2017-04-06 10:32:19,232 INFO  [Log] Excel sheet opened 
-2017-04-06 10:32:31,503 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:31,721 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:32:32,547 INFO  [Log] Browser full screen 
-2017-04-06 10:32:35,639 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:35,639 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:35,723 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:32:35,753 INFO  [Log] Browser full screen 
-2017-04-06 10:32:36,014 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:36,014 INFO  [Log] User name picked from Excel is nguyenthihuongnguyenthihuongng 
-2017-04-06 10:32:36,549 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:32:36,760 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:32:36,760 INFO  [Log] Pass word picked from Excel is nguyenthihuong 
-2017-04-06 10:32:38,262 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:32:38,353 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:32:38,387 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:32:38,720 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:32:38,868 INFO  [Log] Message is found on the Login_Page 
-2017-04-06 10:32:39,962 ERROR [Log] Test Case 10 Failed because of VerificationÐãng nh?p không thành công khi tên tài kho?n = 30 k? t? có trong CSDL , m?t kh?u < 30 k? t? có trong CSDL || Ten dang ky, mat khau b? gioi han 
-2017-04-06 10:32:39,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:32:39,963 INFO  [Log] X 
-2017-04-06 10:32:39,963 INFO  [Log] X 
-2017-04-06 10:32:40,857 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:32:40,858 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:32:40,858 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:32:40,964 INFO  [Log] Excel sheet opened 
-2017-04-06 10:32:40,964 INFO  [Log] Excel sheet opened 
-2017-04-06 10:32:51,559 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:52,308 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:32:52,388 INFO  [Log] Browser full screen 
-2017-04-06 10:32:53,311 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:53,311 INFO  [Log] New driver instantiated 
-2017-04-06 10:32:53,399 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:32:53,436 INFO  [Log] Browser full screen 
-2017-04-06 10:32:53,664 INFO  [Log] Web application launched successfully 
-2017-04-06 10:32:53,665 INFO  [Log] User name picked from Excel is HuongNguyen 
-2017-04-06 10:32:53,782 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 10:32:53,909 INFO  [Log] User name entered in the Username text box 
-2017-04-06 10:32:53,909 INFO  [Log] Pass word picked from Excel is 05071995 
-2017-04-06 10:32:56,674 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 10:32:56,791 INFO  [Log] Pass word entered in the Password text box 
-2017-04-06 10:32:56,823 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 10:32:57,860 INFO  [Log] Click action performed on Submit button 
-2017-04-06 10:33:03,445 INFO  [Log] Link thong tin tai khoan is found on the Login_Page 
-2017-04-06 10:33:03,482 INFO  [Log] Check display link thong tin tai khoan form SignIn  
-2017-04-06 10:33:03,588 INFO  [Log] Test Case 11 Passed because of Verification 
-2017-04-06 10:33:03,589 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:33:03,589 INFO  [Log] X 
-2017-04-06 10:33:03,589 INFO  [Log] X 
-2017-04-06 10:33:04,210 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:33:04,210 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:33:04,210 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:33:04,287 INFO  [Log] Excel sheet opened 
-2017-04-06 10:33:04,287 INFO  [Log] Excel sheet opened 
-2017-04-06 10:33:14,348 INFO  [Log] New driver instantiated 
-2017-04-06 10:33:14,400 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:33:15,225 INFO  [Log] Browser full screen 
-2017-04-06 10:33:15,988 INFO  [Log] Web application launched successfully 
-2017-04-06 10:33:15,988 INFO  [Log] New driver instantiated 
-2017-04-06 10:33:16,276 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:33:16,486 INFO  [Log] Browser full screen 
-2017-04-06 10:33:17,662 INFO  [Log] Web application launched successfully 
-2017-04-06 10:33:18,009 INFO  [Log] Link Ðãng K? is found on the Login_Page 
-2017-04-06 10:33:18,149 INFO  [Log] Link Ðãng K? is found on the Login_Page 
-2017-04-06 10:33:20,903 INFO  [Log] Click Link Dang Ky 
-2017-04-06 10:33:20,933 INFO  [Log] Get title Dang ky 
-2017-04-06 10:33:21,031 INFO  [Log] Test Case 12 Passed because of Verification 
-2017-04-06 10:33:21,031 INFO  [Log] Check successfull link Dang ky 
-2017-04-06 10:33:21,032 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:33:21,032 INFO  [Log] X 
-2017-04-06 10:33:21,032 INFO  [Log] X 
-2017-04-06 10:33:21,391 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:33:21,391 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 10:33:21,391 INFO  [Log] **************************************************************************************** 
-2017-04-06 10:33:21,530 INFO  [Log] Excel sheet opened 
-2017-04-06 10:33:21,530 INFO  [Log] Excel sheet opened 
-2017-04-06 10:33:31,619 INFO  [Log] New driver instantiated 
-2017-04-06 10:33:32,440 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 10:33:33,518 INFO  [Log] Browser full screen 
-2017-04-06 10:33:35,147 INFO  [Log] Web application launched successfully 
-2017-04-06 10:33:35,147 INFO  [Log] New driver instantiated 
-2017-04-06 10:33:35,189 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 10:33:35,236 INFO  [Log] Browser full screen 
-2017-04-06 10:33:35,451 INFO  [Log] Web application launched successfully 
-2017-04-06 10:33:36,032 INFO  [Log] Link quên Pass is found on the Login_Page 
-2017-04-06 10:33:36,428 INFO  [Log] Link quên Pass is found on the Login_Page 
-2017-04-06 10:33:37,540 INFO  [Log] Click Link quen mat khau 
-2017-04-06 10:33:37,572 INFO  [Log] Get title quyen mat khau 
-2017-04-06 10:33:37,708 INFO  [Log] Test Case 13 Passed because of Verification 
-2017-04-06 10:33:37,708 INFO  [Log] Check successfull link quen pass 
-2017-04-06 10:33:37,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 10:33:37,708 INFO  [Log] X 
-2017-04-06 10:33:37,708 INFO  [Log] X 
-2017-04-06 14:52:04,981 INFO  [Log] **************************************************************************************** 
-2017-04-06 14:52:05,018 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 14:52:05,019 INFO  [Log] **************************************************************************************** 
-2017-04-06 14:52:07,878 INFO  [Log] Excel sheet opened 
-2017-04-06 14:52:07,878 INFO  [Log] Excel sheet opened 
-2017-04-06 14:52:27,381 INFO  [Log] New driver instantiated 
-2017-04-06 14:52:27,797 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 14:52:27,969 INFO  [Log] Browser full screen 
-2017-04-06 14:52:29,867 INFO  [Log] Web application launched successfully 
-2017-04-06 14:52:29,867 INFO  [Log] New driver instantiated 
-2017-04-06 14:52:30,020 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 14:52:30,221 INFO  [Log] Browser full screen 
-2017-04-06 14:52:30,394 INFO  [Log] Web application launched successfully 
-2017-04-06 14:52:30,590 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 14:52:33,201 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 14:52:33,625 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 14:52:34,118 INFO  [Log] LogIn successful 
-2017-04-06 14:52:34,177 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
-2017-04-06 14:52:35,462 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
-2017-04-06 14:52:35,842 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 14:52:36,522 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
-2017-04-06 14:52:36,655 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 14:52:37,622 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
-2017-04-06 14:52:39,830 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
-2017-04-06 14:52:40,898 INFO  [Log] Test Case 26 Passed because of Verification 
-2017-04-06 14:52:40,903 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 14:52:40,903 INFO  [Log] X 
-2017-04-06 14:52:40,903 INFO  [Log] X 
-2017-04-06 15:00:46,266 INFO  [Log] **************************************************************************************** 
-2017-04-06 15:00:46,267 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 15:00:46,267 INFO  [Log] **************************************************************************************** 
-2017-04-06 15:00:47,677 INFO  [Log] Excel sheet opened 
-2017-04-06 15:00:47,677 INFO  [Log] Excel sheet opened 
-2017-04-06 15:01:53,324 INFO  [Log] New driver instantiated 
-2017-04-06 15:01:54,282 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 15:01:54,494 INFO  [Log] Browser full screen 
-2017-04-06 15:01:56,633 INFO  [Log] Web application launched successfully 
-2017-04-06 15:01:56,633 INFO  [Log] New driver instantiated 
-2017-04-06 15:01:56,676 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 15:01:56,700 INFO  [Log] Browser full screen 
-2017-04-06 15:01:58,276 INFO  [Log] Web application launched successfully 
-2017-04-06 15:01:58,404 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 15:02:00,540 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 15:02:00,855 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 15:02:01,262 INFO  [Log] LogIn successful 
-2017-04-06 15:02:01,311 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
-2017-04-06 15:02:01,914 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
-2017-04-06 15:02:02,354 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 15:02:02,490 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
-2017-04-06 15:02:02,604 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 15:02:02,787 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
-2017-04-06 15:02:03,264 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
-2017-04-06 15:02:03,736 INFO  [Log] Test Case 27 Passed because of Verification 
-2017-04-06 15:02:03,740 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 15:02:03,740 INFO  [Log] X 
-2017-04-06 15:02:03,741 INFO  [Log] X 
-2017-04-06 15:02:11,447 INFO  [Log] **************************************************************************************** 
-2017-04-06 15:02:11,447 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-04-06 15:02:11,447 INFO  [Log] **************************************************************************************** 
-2017-04-06 15:02:11,790 INFO  [Log] Excel sheet opened 
-2017-04-06 15:02:11,790 INFO  [Log] Excel sheet opened 
-2017-04-06 15:02:24,689 INFO  [Log] New driver instantiated 
-2017-04-06 15:02:24,966 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-04-06 15:02:26,015 INFO  [Log] Browser full screen 
-2017-04-06 15:02:27,329 INFO  [Log] Web application launched successfully 
-2017-04-06 15:02:27,329 INFO  [Log] New driver instantiated 
-2017-04-06 15:02:27,456 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
-2017-04-06 15:02:27,492 INFO  [Log] Browser full screen 
-2017-04-06 15:02:27,844 INFO  [Log] Web application launched successfully 
-2017-04-06 15:02:27,937 INFO  [Log] Username text box is found on the Login Page 
-2017-04-06 15:02:30,711 INFO  [Log] Password text box is found on the Login_Page 
-2017-04-06 15:02:31,026 INFO  [Log] Submit button is found on the Login_Page 
-2017-04-06 15:02:31,675 INFO  [Log] LogIn successful 
-2017-04-06 15:02:31,727 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
-2017-04-06 15:02:32,270 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
-2017-04-06 15:02:32,630 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 15:02:32,753 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
-2017-04-06 15:02:32,878 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
-2017-04-06 15:02:33,042 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
-2017-04-06 15:02:33,372 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
-2017-04-06 15:02:33,767 INFO  [Log] Test Case 28 Passed because of Verification 
-2017-04-06 15:02:33,768 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
-2017-04-06 15:02:33,768 INFO  [Log] X 
-2017-04-06 15:02:33,768 INFO  [Log] X 
+2017-04-06 15:56:32,491 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:56:32,492 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:56:32,492 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:56:33,959 INFO  [Log] Excel sheet opened 
+2017-04-06 15:56:33,959 INFO  [Log] Excel sheet opened 
+2017-04-06 15:56:59,555 INFO  [Log] New driver instantiated 
+2017-04-06 15:57:00,025 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 15:57:02,125 INFO  [Log] Browser full screen 
+2017-04-06 15:57:03,705 INFO  [Log] Web application launched successfully 
+2017-04-06 15:57:03,705 INFO  [Log] New driver instantiated 
+2017-04-06 15:57:03,733 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:57:04,462 INFO  [Log] Browser full screen 
+2017-04-06 15:57:06,106 INFO  [Log] Web application launched successfully 
+2017-04-06 15:57:06,227 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 15:57:12,234 INFO  [Log]  Message khi khong dang nhap is found on the Flower Shop 
+2017-04-06 15:57:12,451 INFO  [Log]  Register link is found on the Flower Shop 
+2017-04-06 15:57:14,127 INFO  [Log] Test Case 1 Passed because of Verification 
+2017-04-06 15:57:14,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:57:14,131 INFO  [Log] X 
+2017-04-06 15:57:14,131 INFO  [Log] X 
+2017-04-06 15:57:52,250 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:57:52,250 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:57:52,250 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:57:52,502 INFO  [Log] Excel sheet opened 
+2017-04-06 15:57:52,503 INFO  [Log] Excel sheet opened 
+2017-04-06 15:58:32,100 INFO  [Log] New driver instantiated 
+2017-04-06 15:58:32,197 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 15:58:35,751 INFO  [Log] Browser full screen 
+2017-04-06 15:58:37,488 INFO  [Log] Web application launched successfully 
+2017-04-06 15:58:37,488 INFO  [Log] New driver instantiated 
+2017-04-06 15:58:37,526 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:58:37,551 INFO  [Log] Browser full screen 
+2017-04-06 15:58:39,008 INFO  [Log] Web application launched successfully 
+2017-04-06 15:58:39,139 INFO  [Log]  San Pham link is found on the Flower Shop 
+2017-04-06 15:58:48,831 INFO  [Log]  Link Dat Mua Hoa Ngay quan trong 001 is found on the San Pham Moi 
+2017-04-06 15:58:49,402 INFO  [Log]  Message khi khong dang nhap is found on the Flower Shop 
+2017-04-06 15:58:49,629 INFO  [Log]  Register link is found on the Flower Shop 
+2017-04-06 15:58:50,096 INFO  [Log] Test Case 2 Passed because of Verification 
+2017-04-06 15:58:50,097 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:58:50,097 INFO  [Log] X 
+2017-04-06 15:58:50,097 INFO  [Log] X 
+2017-04-06 15:58:50,764 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:58:50,764 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:58:50,764 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:58:50,962 INFO  [Log] Excel sheet opened 
+2017-04-06 15:58:50,963 INFO  [Log] Excel sheet opened 
+2017-04-06 15:59:22,186 INFO  [Log] New driver instantiated 
+2017-04-06 15:59:24,876 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 15:59:25,821 INFO  [Log] Browser full screen 
+2017-04-06 15:59:31,551 INFO  [Log] Web application launched successfully 
+2017-04-06 15:59:31,551 INFO  [Log] New driver instantiated 
+2017-04-06 15:59:31,575 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:59:31,599 INFO  [Log] Browser full screen 
+2017-04-06 15:59:32,146 INFO  [Log] Web application launched successfully 
+2017-04-06 15:59:32,317 INFO  [Log]  Hoa Tinh yeu link is found on the Flower Shop 
+2017-04-06 15:59:41,128 INFO  [Log]  Dat mua  link is found on the Flower Shop 
+2017-04-06 15:59:41,563 INFO  [Log]  Message khi khong dang nhap is found on the Flower Shop 
+2017-04-06 15:59:41,950 INFO  [Log]  Register link is found on the Flower Shop 
+2017-04-06 15:59:42,196 INFO  [Log] Test Case 3 Passed because of Verification 
+2017-04-06 15:59:42,197 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:59:42,197 INFO  [Log] X 
+2017-04-06 15:59:42,197 INFO  [Log] X 
+2017-04-06 15:59:43,356 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:59:43,356 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:59:43,356 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:59:43,499 INFO  [Log] Excel sheet opened 
+2017-04-06 15:59:43,499 INFO  [Log] Excel sheet opened 
+2017-04-06 15:59:59,730 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:00,431 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:00:01,037 INFO  [Log] Browser full screen 
+2017-04-06 16:00:04,123 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:04,123 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:04,162 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:00:04,186 INFO  [Log] Browser full screen 
+2017-04-06 16:00:05,657 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:06,035 INFO  [Log]  Gia Duoi 100000ð  link is found on the Flower Shop 
+2017-04-06 16:00:06,915 INFO  [Log]  Gia Hoa Ngay Quan Trong  link is found on the Flower Shop 
+2017-04-06 16:00:08,191 INFO  [Log]  Message khi khong dang nhap is found on the Flower Shop 
+2017-04-06 16:00:08,381 INFO  [Log]  Register link is found on the Flower Shop 
+2017-04-06 16:00:08,566 INFO  [Log] Test Case 4 Passed because of Verification 
+2017-04-06 16:00:08,567 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:00:08,567 INFO  [Log] X 
+2017-04-06 16:00:08,567 INFO  [Log] X 
+2017-04-06 16:00:09,236 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:09,236 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:00:09,236 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:09,372 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:09,372 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:19,510 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:20,250 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:00:20,984 INFO  [Log] Browser full screen 
+2017-04-06 16:00:23,168 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:23,168 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:23,240 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:00:23,277 INFO  [Log] Browser full screen 
+2017-04-06 16:00:23,448 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:24,286 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:00:26,678 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:00:26,834 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:00:27,198 INFO  [Log] LogIn successful 
+2017-04-06 16:00:27,612 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:00:28,691 INFO  [Log] Check STT successfuly 
+2017-04-06 16:00:28,691 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:00:28,691 INFO  [Log] Check soluong successfuly 
+2017-04-06 16:00:28,691 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:00:28,691 INFO  [Log] Check thanh tien  successfuly 15000 
+2017-04-06 16:00:28,692 INFO  [Log] Kiem tra tong tien thanh cong15000 
+2017-04-06 16:00:28,840 INFO  [Log] Test Case 5 Passed because of Verification 
+2017-04-06 16:00:28,841 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:00:28,841 INFO  [Log] X 
+2017-04-06 16:00:28,841 INFO  [Log] X 
+2017-04-06 16:00:29,395 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:29,395 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:00:29,395 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:29,512 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:29,512 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:39,977 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:40,023 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:00:40,878 INFO  [Log] Browser full screen 
+2017-04-06 16:00:41,426 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:41,426 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:41,463 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:00:41,516 INFO  [Log] Browser full screen 
+2017-04-06 16:00:41,798 INFO  [Log] Web application launched successfully 
+2017-04-06 16:00:41,903 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:00:46,218 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:00:46,390 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:00:46,760 INFO  [Log] LogIn successful 
+2017-04-06 16:00:46,813 INFO  [Log]  San Pham link is found on the Flower Shop 
+2017-04-06 16:00:47,680 INFO  [Log]  Link Dat Mua Hoa Ngay quan trong 001 is found on the San Pham Moi 
+2017-04-06 16:00:48,494 INFO  [Log] Check STT successfuly 
+2017-04-06 16:00:48,495 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:00:48,495 INFO  [Log] Check soluong successfuly 
+2017-04-06 16:00:48,495 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:00:48,495 INFO  [Log] Check thanh tien  successfuly 15000 
+2017-04-06 16:00:48,495 INFO  [Log] Kiem tra tong tien thanh cong15000 
+2017-04-06 16:00:48,611 INFO  [Log] Test Case 6 Passed because of Verification 
+2017-04-06 16:00:48,613 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:00:48,613 INFO  [Log] X 
+2017-04-06 16:00:48,613 INFO  [Log] X 
+2017-04-06 16:00:49,099 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:49,099 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:00:49,099 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:49,304 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:49,306 INFO  [Log] Excel sheet opened 
+2017-04-06 16:00:59,736 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:59,791 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:01:00,577 INFO  [Log] Browser full screen 
+2017-04-06 16:01:01,661 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:01,661 INFO  [Log] New driver instantiated 
+2017-04-06 16:01:01,696 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:01:01,737 INFO  [Log] Browser full screen 
+2017-04-06 16:01:02,310 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:02,696 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:01:05,842 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:01:06,116 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:01:06,815 INFO  [Log] LogIn successful 
+2017-04-06 16:01:06,922 INFO  [Log]  Hoa Tinh yeu link is found on the Flower Shop 
+2017-04-06 16:01:08,476 INFO  [Log]  Dat mua  link is found on the Flower Shop 
+2017-04-06 16:01:09,249 INFO  [Log] Check STT successfuly 
+2017-04-06 16:01:09,250 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:01:09,250 INFO  [Log] Check soluong successfuly 
+2017-04-06 16:01:09,250 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:01:09,250 INFO  [Log] Check thanh tien  successfuly 700000 
+2017-04-06 16:01:09,250 INFO  [Log] Kiem tra tong tien thanh cong700000 
+2017-04-06 16:01:09,387 INFO  [Log] Test Case 7 Passed because of Verification 
+2017-04-06 16:01:09,388 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:01:09,389 INFO  [Log] X 
+2017-04-06 16:01:09,389 INFO  [Log] X 
+2017-04-06 16:01:09,930 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:09,930 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:01:09,930 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:10,028 INFO  [Log] Excel sheet opened 
+2017-04-06 16:01:10,028 INFO  [Log] Excel sheet opened 
+2017-04-06 16:01:20,243 INFO  [Log] New driver instantiated 
+2017-04-06 16:01:21,337 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:01:21,442 INFO  [Log] Browser full screen 
+2017-04-06 16:01:23,016 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:23,016 INFO  [Log] New driver instantiated 
+2017-04-06 16:01:23,062 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:01:23,159 INFO  [Log] Browser full screen 
+2017-04-06 16:01:23,550 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:23,654 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:01:26,535 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:01:27,474 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:01:27,809 INFO  [Log] LogIn successful 
+2017-04-06 16:01:27,961 INFO  [Log]  Gia Duoi 100000ð  link is found on the Flower Shop 
+2017-04-06 16:01:28,604 INFO  [Log]  Gia Hoa Ngay Quan Trong  link is found on the Flower Shop 
+2017-04-06 16:01:29,243 INFO  [Log] Check STT successfuly 
+2017-04-06 16:01:29,243 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:01:29,243 INFO  [Log] Check soluong successfuly 
+2017-04-06 16:01:29,243 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:01:29,243 INFO  [Log] Check thanh tien  successfuly 15000 
+2017-04-06 16:01:29,244 INFO  [Log] Kiem tra tong tien thanh cong15000 
+2017-04-06 16:01:29,364 INFO  [Log] Test Case 8 Passed because of Verification 
+2017-04-06 16:01:29,365 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:01:29,365 INFO  [Log] X 
+2017-04-06 16:01:29,365 INFO  [Log] X 
+2017-04-06 16:01:30,047 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:30,047 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:01:30,047 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:30,147 INFO  [Log] Excel sheet opened 
+2017-04-06 16:01:30,147 INFO  [Log] Excel sheet opened 
+2017-04-06 16:01:40,193 INFO  [Log] New driver instantiated 
+2017-04-06 16:01:41,121 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:01:41,232 INFO  [Log] Browser full screen 
+2017-04-06 16:01:43,773 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:43,773 INFO  [Log] New driver instantiated 
+2017-04-06 16:01:43,826 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:01:43,860 INFO  [Log] Browser full screen 
+2017-04-06 16:01:44,071 INFO  [Log] Web application launched successfully 
+2017-04-06 16:01:44,863 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:01:46,876 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:01:47,007 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:01:47,361 INFO  [Log] LogIn successful 
+2017-04-06 16:01:47,403 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:01:47,794 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:01:47,875 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:01:48,045 INFO  [Log] sluong1.2 
+2017-04-06 16:01:48,243 INFO  [Log]  Link Cap nhat gio hang is found on the Flower Shop 
+2017-04-06 16:01:49,381 ERROR [Log] Test Case 9 Failed because of VerificationKhi nhap so luong la so thuc khong thong bao loi 
+2017-04-06 16:01:49,382 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:01:49,382 INFO  [Log] X 
+2017-04-06 16:01:49,382 INFO  [Log] X 
+2017-04-06 16:01:50,109 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:50,110 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:01:50,110 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:01:50,211 INFO  [Log] Excel sheet opened 
+2017-04-06 16:01:50,211 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:00,629 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:01,383 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:02:01,456 INFO  [Log] Browser full screen 
+2017-04-06 16:02:03,140 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:03,140 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:03,287 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:02:03,338 INFO  [Log] Browser full screen 
+2017-04-06 16:02:03,697 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:03,826 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:02:09,591 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:02:09,946 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:02:10,397 INFO  [Log] LogIn successful 
+2017-04-06 16:02:10,437 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:02:11,028 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:11,126 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:11,387 INFO  [Log]  Link Cap nhat gio hang is found on the Flower Shop 
+2017-04-06 16:02:12,557 ERROR [Log] Test Case 10 Failed because of VerificationKhi nhap so luong la chu khong thong bao loi 
+2017-04-06 16:02:12,557 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:02:12,557 INFO  [Log] X 
+2017-04-06 16:02:12,557 INFO  [Log] X 
+2017-04-06 16:02:13,163 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:13,163 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:02:13,163 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:13,235 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:13,235 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:23,842 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:24,631 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:02:25,611 INFO  [Log] Browser full screen 
+2017-04-06 16:02:27,201 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:27,201 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:27,486 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:02:27,677 INFO  [Log] Browser full screen 
+2017-04-06 16:02:28,169 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:28,527 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:02:28,672 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:02:30,822 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:02:31,175 INFO  [Log] LogIn successful 
+2017-04-06 16:02:31,375 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:02:31,748 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:31,827 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:32,082 INFO  [Log]  Link Cap nhat gio hang is found on the Flower Shop 
+2017-04-06 16:02:33,654 ERROR [Log] Test Case 11 Failed because of VerificationÐ? tr?ng s? lý?ng khong thong bao loi 
+2017-04-06 16:02:33,654 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:02:33,655 INFO  [Log] X 
+2017-04-06 16:02:33,655 INFO  [Log] X 
+2017-04-06 16:02:34,633 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:34,639 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:02:34,639 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:34,705 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:34,705 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:45,766 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:46,602 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:02:46,700 INFO  [Log] Browser full screen 
+2017-04-06 16:02:47,818 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:47,818 INFO  [Log] New driver instantiated 
+2017-04-06 16:02:47,869 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:02:47,908 INFO  [Log] Browser full screen 
+2017-04-06 16:02:48,131 INFO  [Log] Web application launched successfully 
+2017-04-06 16:02:49,173 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:02:51,199 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:02:51,481 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:02:52,010 INFO  [Log] LogIn successful 
+2017-04-06 16:02:52,696 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:02:53,081 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:53,151 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:02:53,528 INFO  [Log]  Link Cap nhat gio hang is found on the Flower Shop 
+2017-04-06 16:02:54,692 INFO  [Log] Check STT successfuly 
+2017-04-06 16:02:54,692 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:02:54,692 INFO  [Log] Check soluong successfuly 
+2017-04-06 16:02:54,692 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:02:54,692 INFO  [Log] Check thanh tien  successfuly 165000 
+2017-04-06 16:02:54,692 INFO  [Log] Kiem tra tong tien thanh cong165000 
+2017-04-06 16:02:54,785 INFO  [Log] Test Case 12 Passed because of Verification 
+2017-04-06 16:02:54,786 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:02:54,786 INFO  [Log] X 
+2017-04-06 16:02:54,786 INFO  [Log] X 
+2017-04-06 16:02:55,237 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:55,237 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:02:55,237 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:02:55,319 INFO  [Log] Excel sheet opened 
+2017-04-06 16:02:55,319 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:06,243 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:06,341 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:03:07,359 INFO  [Log] Browser full screen 
+2017-04-06 16:03:08,374 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:08,375 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:08,445 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:03:08,500 INFO  [Log] Browser full screen 
+2017-04-06 16:03:10,170 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:10,272 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:03:12,498 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:03:12,886 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:03:13,722 INFO  [Log] LogIn successful 
+2017-04-06 16:03:13,995 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:03:14,331 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:03:14,401 INFO  [Log]  Textbox so luong is found on the Flower Shop 
+2017-04-06 16:03:14,661 INFO  [Log]  Link Cap nhat gio hang is found on the Flower Shop 
+2017-04-06 16:03:15,310 INFO  [Log] Check STT successfuly 
+2017-04-06 16:03:15,310 INFO  [Log] Check ten hoa successfuly 
+2017-04-06 16:03:15,861 ERROR [Log] Test Case 13 Failed because of VerificationERROR S? Lý?ng 
+2017-04-06 16:03:15,861 ERROR [Log] Check so luong  not successfuly 
+2017-04-06 16:03:15,861 INFO  [Log] Check don gia  successfuly 
+2017-04-06 16:03:16,434 ERROR [Log] Test Case 13 Failed because of VerificationERROR Thành Ti?n 
+2017-04-06 16:03:16,434 ERROR [Log] Check thanh tien  not successfuly 
+2017-04-06 16:03:16,434 INFO  [Log] Kiem tra tong tien thanh cong180000 
+2017-04-06 16:03:17,133 ERROR [Log] Test Case 13 Failed because of VerificationNh?p s? lý?ng 3 ch? s? c?p nh?t không thành công 
+2017-04-06 16:03:17,134 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:03:17,134 INFO  [Log] X 
+2017-04-06 16:03:17,134 INFO  [Log] X 
+2017-04-06 16:03:18,098 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:18,098 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:03:18,098 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:18,168 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:18,168 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:28,953 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:29,076 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:03:29,998 INFO  [Log] Browser full screen 
+2017-04-06 16:03:30,752 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:30,752 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:30,819 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:03:30,866 INFO  [Log] Browser full screen 
+2017-04-06 16:03:31,094 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:31,952 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:03:34,483 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:03:35,097 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:03:35,844 INFO  [Log] LogIn successful 
+2017-04-06 16:03:35,884 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:03:36,581 INFO  [Log]  Link Xoa is found on the Flower Shop 
+2017-04-06 16:03:37,151 INFO  [Log] Test Case 14 Passed because of Verification 
+2017-04-06 16:03:37,152 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:03:37,152 INFO  [Log] X 
+2017-04-06 16:03:37,152 INFO  [Log] X 
+2017-04-06 16:03:37,731 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:37,732 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:03:37,733 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:37,837 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:37,837 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:48,731 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:48,781 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:03:48,981 INFO  [Log] Browser full screen 
+2017-04-06 16:03:49,638 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:49,638 INFO  [Log] New driver instantiated 
+2017-04-06 16:03:50,072 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:03:50,128 INFO  [Log] Browser full screen 
+2017-04-06 16:03:50,806 INFO  [Log] Web application launched successfully 
+2017-04-06 16:03:51,063 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:03:53,519 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:03:53,665 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:03:54,430 INFO  [Log] LogIn successful 
+2017-04-06 16:03:54,863 INFO  [Log]  Link Gio hang is found on the Flower Shop 
+2017-04-06 16:03:55,393 INFO  [Log]  Link Them is found on the Flower Shop 
+2017-04-06 16:03:55,735 INFO  [Log] Click them 
+2017-04-06 16:03:56,255 INFO  [Log] Test Case 15 Passed because of Verification 
+2017-04-06 16:03:56,256 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:03:56,256 INFO  [Log] X 
+2017-04-06 16:03:56,256 INFO  [Log] X 
+2017-04-06 16:03:56,945 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:56,945 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:03:56,945 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:03:57,040 INFO  [Log] Excel sheet opened 
+2017-04-06 16:03:57,040 INFO  [Log] Excel sheet opened 
+2017-04-06 16:04:07,501 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:08,174 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:04:08,308 INFO  [Log] Browser full screen 
+2017-04-06 16:04:10,768 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:10,768 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:11,011 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:04:11,049 INFO  [Log] Browser full screen 
+2017-04-06 16:04:11,913 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:12,035 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:04:14,026 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:04:14,136 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:04:14,454 INFO  [Log] LogIn successful 
+2017-04-06 16:04:14,539 INFO  [Log]  Link Gio hang is found on the Flower Shop 
+2017-04-06 16:04:14,982 INFO  [Log] Test Case 16 Passed because of Verification 
+2017-04-06 16:04:14,987 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:04:14,987 INFO  [Log] X 
+2017-04-06 16:04:14,987 INFO  [Log] X 
+2017-04-06 16:04:15,582 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:04:15,582 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:04:15,582 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:04:15,641 INFO  [Log] Excel sheet opened 
+2017-04-06 16:04:15,641 INFO  [Log] Excel sheet opened 
+2017-04-06 16:04:25,968 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:26,036 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:04:26,832 INFO  [Log] Browser full screen 
+2017-04-06 16:04:27,732 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:27,732 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:28,259 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:04:28,607 INFO  [Log] Browser full screen 
+2017-04-06 16:04:29,131 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:29,332 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:04:32,527 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:04:32,816 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:04:33,200 INFO  [Log] LogIn successful 
+2017-04-06 16:04:33,276 INFO  [Log]  Link Gio hang is found on the Flower Shop 
+2017-04-06 16:04:33,791 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:04:34,160 INFO  [Log]  Form Thong tin nguoi Thanh Toan is found on the Flower Shop 
+2017-04-06 16:04:34,196 ERROR [Log] failed gio hang 
+2017-04-06 16:04:34,757 ERROR [Log] Test Case 17 Failed because of VerificationTrong gi? hàng không có sp v?n click ðý?c vào thanh toan  
+2017-04-06 16:04:34,757 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:04:34,757 INFO  [Log] X 
+2017-04-06 16:04:34,757 INFO  [Log] X 
+2017-04-06 16:04:35,203 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:04:35,203 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:04:35,203 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:04:35,256 INFO  [Log] Excel sheet opened 
+2017-04-06 16:04:35,256 INFO  [Log] Excel sheet opened 
+2017-04-06 16:04:50,245 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:50,916 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:04:51,059 INFO  [Log] Browser full screen 
+2017-04-06 16:04:53,207 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:53,207 INFO  [Log] New driver instantiated 
+2017-04-06 16:04:53,252 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:04:53,304 INFO  [Log] Browser full screen 
+2017-04-06 16:04:53,621 INFO  [Log] Web application launched successfully 
+2017-04-06 16:04:53,727 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:04:57,655 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:04:58,226 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:04:58,522 INFO  [Log] LogIn successful 
+2017-04-06 16:04:58,569 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:04:59,120 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:04:59,473 INFO  [Log]  Check Thong tin nguoi Thanh Toan table 2 is found on the Flower Shop 
+2017-04-06 16:04:59,516 INFO  [Log] Ho ten :Nguy?n Hýõng 
+2017-04-06 16:04:59,547 INFO  [Log]  Check Thong tin nguoi Thanh Toan table 3 is found on the Flower Shop 
+2017-04-06 16:04:59,576 INFO  [Log] Email :nguyenthihuong5795@gmail.com 
+2017-04-06 16:04:59,609 INFO  [Log]  Check Thong tin nguoi Thanh Toan table 4 is found on the Flower Shop 
+2017-04-06 16:04:59,643 INFO  [Log] SDT :1698795199 
+2017-04-06 16:04:59,670 INFO  [Log]  Check Thong tin nguoi Thanh Toan table 5 is found on the Flower Shop 
+2017-04-06 16:04:59,698 INFO  [Log] DiaChi :H?i Toàn - H?i H?u - Nam Ð?nh 
+2017-04-06 16:04:59,727 INFO  [Log]  Form Thong tin nguoi Thanh Toan is found on the Flower Shop 
+2017-04-06 16:04:59,777 INFO  [Log]  Form giao hang is found on the Flower Shop 
+2017-04-06 16:05:01,134 INFO  [Log] Connect database susscessfully 
+2017-04-06 16:05:01,138 INFO  [Log] Ho va ten : Nguy?n Hýõng co trong CSDL 
+2017-04-06 16:05:01,138 INFO  [Log] Email : nguyenthihuong5795@gmail.com co trong CSDL 
+2017-04-06 16:05:01,138 INFO  [Log] Sdt : 1698795199 co trong CSDL 
+2017-04-06 16:05:01,138 INFO  [Log] DiaChi : H?i Toàn - H?i H?u - Nam Ð?nh co trong CSDL 
+2017-04-06 16:05:01,138 INFO  [Log] Check connect 
+2017-04-06 16:05:01,239 INFO  [Log] Test Case 18 Passed because of Verification 
+2017-04-06 16:05:01,240 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:05:01,240 INFO  [Log] X 
+2017-04-06 16:05:01,240 INFO  [Log] X 
+2017-04-06 16:05:01,805 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:01,806 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:05:01,806 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:01,868 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:01,868 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:11,176 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:11,215 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:05:11,978 INFO  [Log] Browser full screen 
+2017-04-06 16:05:12,899 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:12,899 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:12,937 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:05:13,002 INFO  [Log] Browser full screen 
+2017-04-06 16:05:14,167 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:14,484 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:05:16,379 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:05:16,917 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:05:17,627 INFO  [Log] LogIn successful 
+2017-04-06 16:05:17,665 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:05:18,216 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:18,562 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:05:18,649 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:05:18,841 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:19,023 INFO  [Log]  Message ngay giao hang is found on the Flower Shop 
+2017-04-06 16:05:19,178 INFO  [Log] Test Case 19 Passed because of Verification 
+2017-04-06 16:05:19,179 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:05:19,179 INFO  [Log] X 
+2017-04-06 16:05:19,179 INFO  [Log] X 
+2017-04-06 16:05:19,604 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:19,605 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:05:19,605 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:19,710 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:19,710 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:30,429 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:31,135 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:05:31,221 INFO  [Log] Browser full screen 
+2017-04-06 16:05:32,657 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:32,657 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:32,916 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:05:32,947 INFO  [Log] Browser full screen 
+2017-04-06 16:05:33,211 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:33,347 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:05:36,238 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:05:36,395 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:05:36,889 INFO  [Log] LogIn successful 
+2017-04-06 16:05:37,123 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:05:38,139 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:38,615 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:05:38,735 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:05:38,939 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:39,303 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:05:39,901 ERROR [Log] Test Case 20 Failed because of VerificationNh?p ngày giao hàng là ch? không báo l?i  
+2017-04-06 16:05:39,901 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:05:39,901 INFO  [Log] X 
+2017-04-06 16:05:39,901 INFO  [Log] X 
+2017-04-06 16:05:40,326 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:40,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:05:40,326 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:40,420 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:40,420 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:50,987 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:51,058 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:05:51,165 INFO  [Log] Browser full screen 
+2017-04-06 16:05:52,490 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:52,490 INFO  [Log] New driver instantiated 
+2017-04-06 16:05:52,691 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:05:52,740 INFO  [Log] Browser full screen 
+2017-04-06 16:05:53,839 INFO  [Log] Web application launched successfully 
+2017-04-06 16:05:53,947 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:05:56,095 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:05:56,262 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:05:56,702 INFO  [Log] LogIn successful 
+2017-04-06 16:05:56,745 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:05:57,491 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:57,942 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:05:58,042 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:05:58,239 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:05:58,569 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:05:59,128 ERROR [Log] Test Case 21 Failed because of VerificationNh?p ngày giao hàng là s? không ðúng ð?nh d?ng không báo l?i  
+2017-04-06 16:05:59,128 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:05:59,128 INFO  [Log] X 
+2017-04-06 16:05:59,128 INFO  [Log] X 
+2017-04-06 16:05:59,625 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:59,625 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:05:59,625 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:05:59,721 INFO  [Log] Excel sheet opened 
+2017-04-06 16:05:59,721 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:10,581 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:10,632 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:06:11,391 INFO  [Log] Browser full screen 
+2017-04-06 16:06:12,149 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:12,149 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:12,176 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:06:12,205 INFO  [Log] Browser full screen 
+2017-04-06 16:06:12,783 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:12,903 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:06:15,775 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:06:15,939 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:06:16,349 INFO  [Log] LogIn successful 
+2017-04-06 16:06:16,406 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:06:17,210 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:17,563 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:06:17,700 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:06:17,833 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:18,167 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:06:18,740 ERROR [Log] Test Case 22 Failed because of VerificationNh?p ngày nh? hõn ngày hi?n t?i v?n thanh toán thành công 
+2017-04-06 16:06:18,741 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:06:18,741 INFO  [Log] X 
+2017-04-06 16:06:18,741 INFO  [Log] X 
+2017-04-06 16:06:19,241 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:19,242 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:06:19,242 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:19,306 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:19,306 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:29,803 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:29,870 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:06:30,639 INFO  [Log] Browser full screen 
+2017-04-06 16:06:31,438 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:31,438 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:31,509 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:06:32,117 INFO  [Log] Browser full screen 
+2017-04-06 16:06:32,403 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:32,500 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:06:35,031 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:06:35,667 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:06:36,353 INFO  [Log] LogIn successful 
+2017-04-06 16:06:36,391 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:06:36,935 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:37,306 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:06:37,413 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:06:37,523 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:06:37,614 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:37,935 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:06:38,497 ERROR [Log] Test Case 23 Failed because of VerificationKhông nh?p ð?a ch? giao hàng v?n click thanh toán pass 
+2017-04-06 16:06:38,497 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:06:38,497 INFO  [Log] X 
+2017-04-06 16:06:38,497 INFO  [Log] X 
+2017-04-06 16:06:39,302 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:39,303 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:06:39,303 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:39,373 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:39,373 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:48,898 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:48,994 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:06:49,933 INFO  [Log] Browser full screen 
+2017-04-06 16:06:51,841 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:51,841 INFO  [Log] New driver instantiated 
+2017-04-06 16:06:52,011 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:06:52,049 INFO  [Log] Browser full screen 
+2017-04-06 16:06:52,795 INFO  [Log] Web application launched successfully 
+2017-04-06 16:06:53,181 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:06:53,327 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:06:54,824 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:06:55,153 INFO  [Log] LogIn successful 
+2017-04-06 16:06:55,194 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:06:55,728 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:56,091 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:06:56,202 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:06:56,304 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:06:57,257 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:06:57,588 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:06:58,221 ERROR [Log] Test Case 24 Failed because of Verificationnh?p ð?a ch? giao hàng > 300 k? t? v?n click thanh toán pass 
+2017-04-06 16:06:58,221 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:06:58,221 INFO  [Log] X 
+2017-04-06 16:06:58,221 INFO  [Log] X 
+2017-04-06 16:06:58,691 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:58,691 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:06:58,691 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:06:58,749 INFO  [Log] Excel sheet opened 
+2017-04-06 16:06:58,749 INFO  [Log] Excel sheet opened 
+2017-04-06 16:07:08,244 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:08,310 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:07:09,007 INFO  [Log] Browser full screen 
+2017-04-06 16:07:11,010 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:11,010 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:11,070 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:07:11,119 INFO  [Log] Browser full screen 
+2017-04-06 16:07:12,244 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:12,337 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:07:14,018 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:07:14,643 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:07:15,025 INFO  [Log] LogIn successful 
+2017-04-06 16:07:15,065 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:07:15,635 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:07:16,102 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:07:16,246 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:07:16,377 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:07:17,356 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:07:17,682 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:07:17,808 INFO  [Log] Test Case 25 Passed because of Verification 
+2017-04-06 16:07:17,809 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:07:17,809 INFO  [Log] X 
+2017-04-06 16:07:17,809 INFO  [Log] X 
+2017-04-06 16:07:18,289 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:07:18,289 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:07:18,289 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:07:18,385 INFO  [Log] Excel sheet opened 
+2017-04-06 16:07:18,385 INFO  [Log] Excel sheet opened 
+2017-04-06 16:07:28,533 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:29,269 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:07:29,625 INFO  [Log] Browser full screen 
+2017-04-06 16:07:30,246 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:30,246 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:30,280 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:07:30,341 INFO  [Log] Browser full screen 
+2017-04-06 16:07:31,415 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:31,788 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:07:33,804 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:07:34,206 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:07:34,738 INFO  [Log] LogIn successful 
+2017-04-06 16:07:34,775 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:07:35,326 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:07:35,719 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:07:35,837 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:07:35,960 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:07:36,896 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:07:37,230 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:07:37,348 INFO  [Log] Test Case 26 Passed because of Verification 
+2017-04-06 16:07:37,348 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:07:37,348 INFO  [Log] X 
+2017-04-06 16:07:37,348 INFO  [Log] X 
+2017-04-06 16:07:38,190 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:07:38,190 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:07:38,190 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:07:38,242 INFO  [Log] Excel sheet opened 
+2017-04-06 16:07:38,242 INFO  [Log] Excel sheet opened 
+2017-04-06 16:07:48,676 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:49,330 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:07:49,426 INFO  [Log] Browser full screen 
+2017-04-06 16:07:50,309 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:50,309 INFO  [Log] New driver instantiated 
+2017-04-06 16:07:50,674 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:07:50,706 INFO  [Log] Browser full screen 
+2017-04-06 16:07:50,864 INFO  [Log] Web application launched successfully 
+2017-04-06 16:07:51,150 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:08:00,181 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:08:04,072 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:08:04,919 INFO  [Log] LogIn successful 
+2017-04-06 16:08:04,966 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:08:05,691 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:08:06,660 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:08:06,774 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:08:06,885 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:08:07,051 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:08:07,474 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:08:08,344 INFO  [Log] Test Case 27 Passed because of Verification 
+2017-04-06 16:08:08,345 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:08:08,345 INFO  [Log] X 
+2017-04-06 16:08:08,345 INFO  [Log] X 
+2017-04-06 16:08:10,509 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:08:10,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Shop Carts       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:08:10,509 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:08:10,572 INFO  [Log] Excel sheet opened 
+2017-04-06 16:08:10,572 INFO  [Log] Excel sheet opened 
+2017-04-06 16:08:21,012 INFO  [Log] New driver instantiated 
+2017-04-06 16:08:21,084 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-04-06 16:08:21,903 INFO  [Log] Browser full screen 
+2017-04-06 16:08:22,687 INFO  [Log] Web application launched successfully 
+2017-04-06 16:08:22,687 INFO  [Log] New driver instantiated 
+2017-04-06 16:08:22,916 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:08:23,257 INFO  [Log] Browser full screen 
+2017-04-06 16:08:23,640 INFO  [Log] Web application launched successfully 
+2017-04-06 16:08:23,720 INFO  [Log] Username text box is found on the Login Page 
+2017-04-06 16:08:23,867 INFO  [Log] Password text box is found on the Login_Page 
+2017-04-06 16:08:26,608 INFO  [Log] Submit button is found on the Login_Page 
+2017-04-06 16:08:27,130 INFO  [Log] LogIn successful 
+2017-04-06 16:08:27,307 INFO  [Log]  Link Dat Mua Hoa Ngay Quan Trong is found on the San Pham Moi 
+2017-04-06 16:08:27,861 INFO  [Log]  Link Thanh Toan is found on the Flower Shop 
+2017-04-06 16:08:28,766 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:08:28,882 INFO  [Log]  TextBox ngay giao hang is found on the Flower Shop 
+2017-04-06 16:08:28,993 INFO  [Log]  TextBox Dia Chi Giao Hang is found on the Flower Shop 
+2017-04-06 16:08:29,155 INFO  [Log]  Button Thanh Toan is found on the Flower Shop 
+2017-04-06 16:08:29,485 INFO  [Log]  Link thanh toan pass is found on the Flower Shop 
+2017-04-06 16:08:29,612 INFO  [Log] Test Case 28 Passed because of Verification 
+2017-04-06 16:08:29,614 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:08:29,614 INFO  [Log] X 
+2017-04-06 16:08:29,614 INFO  [Log] X 

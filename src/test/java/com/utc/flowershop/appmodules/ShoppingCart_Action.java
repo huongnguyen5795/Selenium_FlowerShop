@@ -223,6 +223,16 @@ public class ShoppingCart_Action extends TestBase {
 			e.printStackTrace();
 		}
 	}
+	public static void testCase016() {
+		try {
+			logIn();
+			ShoppingCart_Page.link_GioHang().click();
+
+		} catch (Exception e) {
+			Log.error("Test Case 016 Failed because of Verification");
+			e.printStackTrace();
+		}
+	}
 	
 	public static void testCase017() {
 		try {
