@@ -71,15 +71,8 @@ public class TestCase_LogIn {
 			test.assignAuthor("HuongNguyen");
 			test.assignCategory("Environment", "QA");
 			LogIn_Action.testCase001();
-			if (LogIn_Page.message().getText().equals("Sai Tên Đăng Nhập Hoặc Mật Khẩu")) {
-				Log.info("Check display message form SignIn ");
-				test.log(LogStatus.PASS, "Hien thi thong bao khi nhap TenDN > 30 ky tu ");
-				LogIn_Page.test_pass(1);
-			} else {
-				test.log(LogStatus.FAIL, "Khong Hien thi thong bao khi nhap TenDN > 30 ky tu");
-				LogIn_Page.test_failed(1, "Hien thi thong bao khi nhap TenDN > 30 ky tu");
-
-			}
+			test.log(LogStatus.FAIL, "Khong co du lieu khi tenDN > 30 ky tu");
+			LogIn_Page.test_failed(1, "TestCase không thể thực hiện được || Không có có TenDN > 30 ký tự ");
 		} catch (Exception e) {
 			LogIn_Page.test_failed(1, "Error Exception");
 			e.printStackTrace();
