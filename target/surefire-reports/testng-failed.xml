@@ -3,25 +3,13 @@
 <suite verbose="0" name="Failed suite [Suite]">
   <test name="Test(failed)">
     <classes>
-      <class name="com.utc.flowershop.testcase.TestCase_LogIn">
+      <class name="com.utc.flowershop.testcase.TestCase_ShoppingCart">
         <methods>
-          <include name="signIn_TC005"/>
-          <include name="signIn_TC008"/>
+          <include name="shopCarts_TC010"/>
           <include name="BeforeSuite"/>
-          <include name="signIn_TC006"/>
-          <include name="signIn_TC001"/>
-          <include name="signIn_TC012"/>
-          <include name="signIn_TC004"/>
-          <include name="signIn_TC007"/>
-          <include name="signIn_TC002"/>
-          <include name="signIn_TC013"/>
-          <include name="signIn_TC011"/>
-          <include name="signIn_TC003"/>
-          <include name="signIn_TC010"/>
-          <include name="signIn_TC009"/>
-          <include name="BeforeMethod"/>
+          <include name="beforeMethod"/>
         </methods>
-      </class> <!-- com.utc.flowershop.testcase.TestCase_LogIn -->
+      </class> <!-- com.utc.flowershop.testcase.TestCase_ShoppingCart -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

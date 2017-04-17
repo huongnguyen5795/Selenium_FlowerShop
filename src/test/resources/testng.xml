@@ -4,12 +4,12 @@
 	<test name="Test">
 	
 		<classes>
-			<class name="com.utc.flowershop.testcase.TestCase_LogIn" />
+			<!-- <class name="com.utc.flowershop.testcase.TestCase_LogIn" /> -->
 			<!-- <class name="com.utc.flowershop.testcase.TestCase_SignIn"/> -->
 			<!-- <class name="com.utc.flowershop.testcase.TestCase_Register"/> -->
 			<!-- <class name="com.utc.flowershop.testcase.TestCase_QuickSearch"/> -->
 			<!-- <class name="com.utc.flowershop.testcase.TestCase_FlowerShop"/> -->
-		<!-- 	<class name="com.utc.flowershop.testcase.TestCase_ShoppingCart"/> -->
+			<class name="com.utc.flowershop.testcase.TestCase_ShoppingCart"/>
 		</classes>
 		
 	</test> <!-- Test -->
