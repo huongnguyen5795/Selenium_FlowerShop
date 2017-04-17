@@ -3,6 +3,7 @@ package com.utc.flowershop.testcase;
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.bcel.Repository;
 import org.apache.log4j.xml.DOMConfigurator;
 
 import org.openqa.selenium.WebDriver;
@@ -51,9 +52,12 @@ public class TestCase_LogIn {
 		Log.startTestCase("LogIn");
 		ExcelUtils.setExcelFile(Constant.pathTestData + Constant.fileTestData, "LogIn");
 		Log.info("Excel sheet opened");
-		String browserName = ExcelUtils.getCellData(1, 5);
-		driver = Utility.openBrowser(browserName);
-		Log.info("New driver instantiated");
+		driver = Utility.init();
+		Log.info("sucess");
+//		String browserName = ExcelUtils.getCellData(1, 5);
+//		Log.info(browserName);
+//		driver = Utility.openBrowser(browserName);
+//		Log.info("New driver instantiated");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		Log.info("Implicit wait applied on the driver for 10 seconds");
 		driver.manage().window().maximize();

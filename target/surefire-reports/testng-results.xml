@@ -2,172 +2,172 @@
 <testng-results skipped="0" failed="0" total="13" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="282106" started-at="2017-04-08T11:10:02Z" finished-at="2017-04-08T11:14:44Z">
+  <suite name="Suite" duration-ms="244391" started-at="2017-04-17T07:35:16Z" finished-at="2017-04-17T07:39:20Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="282106" started-at="2017-04-08T11:10:02Z" finished-at="2017-04-08T11:14:44Z">
+    <test name="Test" duration-ms="244391" started-at="2017-04-17T07:35:16Z" finished-at="2017-04-17T07:39:20Z">
       <class name="com.utc.flowershop.testcase.TestCase_LogIn">
-        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeSuite" is-config="true" duration-ms="451" started-at="2017-04-08T18:10:02Z" finished-at="2017-04-08T18:10:02Z">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeSuite" is-config="true" duration-ms="443" started-at="2017-04-17T14:35:16Z" finished-at="2017-04-17T14:35:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="34795" started-at="2017-04-08T18:10:02Z" finished-at="2017-04-08T18:10:37Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="26261" started-at="2017-04-17T14:35:16Z" finished-at="2017-04-17T14:35:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC001()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC001" duration-ms="4083" started-at="2017-04-08T18:10:37Z" finished-at="2017-04-08T18:10:41Z">
+        <test-method status="PASS" signature="signIn_TC001()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC001" duration-ms="2134" started-at="2017-04-17T14:35:42Z" finished-at="2017-04-17T14:35:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC001 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="1192" started-at="2017-04-08T18:10:41Z" finished-at="2017-04-08T18:10:42Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="1239" started-at="2017-04-17T14:35:44Z" finished-at="2017-04-17T14:35:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14348" started-at="2017-04-08T18:10:42Z" finished-at="2017-04-08T18:10:57Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="12787" started-at="2017-04-17T14:35:46Z" finished-at="2017-04-17T14:35:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC002()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC002" duration-ms="5330" started-at="2017-04-08T18:10:57Z" finished-at="2017-04-08T18:11:02Z">
+        <test-method status="PASS" signature="signIn_TC002()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC002" duration-ms="4388" started-at="2017-04-17T14:35:59Z" finished-at="2017-04-17T14:36:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC002 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="1022" started-at="2017-04-08T18:11:02Z" finished-at="2017-04-08T18:11:03Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="475" started-at="2017-04-17T14:36:03Z" finished-at="2017-04-17T14:36:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="16789" started-at="2017-04-08T18:11:03Z" finished-at="2017-04-08T18:11:20Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="13296" started-at="2017-04-17T14:36:03Z" finished-at="2017-04-17T14:36:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC003()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC003" duration-ms="4240" started-at="2017-04-08T18:11:20Z" finished-at="2017-04-08T18:11:24Z">
+        <test-method status="PASS" signature="signIn_TC003()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC003" duration-ms="4362" started-at="2017-04-17T14:36:17Z" finished-at="2017-04-17T14:36:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC003 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="642" started-at="2017-04-08T18:11:24Z" finished-at="2017-04-08T18:11:25Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="388" started-at="2017-04-17T14:36:21Z" finished-at="2017-04-17T14:36:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="16773" started-at="2017-04-08T18:11:25Z" finished-at="2017-04-08T18:11:41Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="13308" started-at="2017-04-17T14:36:21Z" finished-at="2017-04-17T14:36:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC004()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC004" duration-ms="2242" started-at="2017-04-08T18:11:41Z" finished-at="2017-04-08T18:11:44Z">
+        <test-method status="PASS" signature="signIn_TC004()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC004" duration-ms="2086" started-at="2017-04-17T14:36:35Z" finished-at="2017-04-17T14:36:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC004 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="338" started-at="2017-04-08T18:11:44Z" finished-at="2017-04-08T18:11:44Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="378" started-at="2017-04-17T14:36:37Z" finished-at="2017-04-17T14:36:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="13770" started-at="2017-04-08T18:11:44Z" finished-at="2017-04-08T18:11:58Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14953" started-at="2017-04-17T14:36:37Z" finished-at="2017-04-17T14:36:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC005()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC005" duration-ms="1906" started-at="2017-04-08T18:11:58Z" finished-at="2017-04-08T18:12:00Z">
+        <test-method status="PASS" signature="signIn_TC005()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC005" duration-ms="1681" started-at="2017-04-17T14:36:52Z" finished-at="2017-04-17T14:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC005 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="335" started-at="2017-04-08T18:12:00Z" finished-at="2017-04-08T18:12:00Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="265" started-at="2017-04-17T14:36:54Z" finished-at="2017-04-17T14:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="12718" started-at="2017-04-08T18:12:00Z" finished-at="2017-04-08T18:12:13Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14840" started-at="2017-04-17T14:36:54Z" finished-at="2017-04-17T14:37:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC006()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC006" duration-ms="4191" started-at="2017-04-08T18:12:13Z" finished-at="2017-04-08T18:12:17Z">
+        <test-method status="PASS" signature="signIn_TC006()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC006" duration-ms="2409" started-at="2017-04-17T14:37:09Z" finished-at="2017-04-17T14:37:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC006 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="1351" started-at="2017-04-08T18:12:17Z" finished-at="2017-04-08T18:12:18Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="598" started-at="2017-04-17T14:37:11Z" finished-at="2017-04-17T14:37:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14412" started-at="2017-04-08T18:12:18Z" finished-at="2017-04-08T18:12:33Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="13131" started-at="2017-04-17T14:37:12Z" finished-at="2017-04-17T14:37:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC007()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC007" duration-ms="5412" started-at="2017-04-08T18:12:33Z" finished-at="2017-04-08T18:12:38Z">
+        <test-method status="PASS" signature="signIn_TC007()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC007" duration-ms="3861" started-at="2017-04-17T14:37:25Z" finished-at="2017-04-17T14:37:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC007 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="637" started-at="2017-04-08T18:12:38Z" finished-at="2017-04-08T18:12:39Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="312" started-at="2017-04-17T14:37:29Z" finished-at="2017-04-17T14:37:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14708" started-at="2017-04-08T18:12:39Z" finished-at="2017-04-08T18:12:54Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="12810" started-at="2017-04-17T14:37:29Z" finished-at="2017-04-17T14:37:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC008()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC008" duration-ms="5312" started-at="2017-04-08T18:12:54Z" finished-at="2017-04-08T18:12:59Z">
+        <test-method status="PASS" signature="signIn_TC008()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC008" duration-ms="5603" started-at="2017-04-17T14:37:42Z" finished-at="2017-04-17T14:37:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC008 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="689" started-at="2017-04-08T18:12:59Z" finished-at="2017-04-08T18:13:00Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="820" started-at="2017-04-17T14:37:48Z" finished-at="2017-04-17T14:37:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14324" started-at="2017-04-08T18:13:00Z" finished-at="2017-04-08T18:13:14Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="13867" started-at="2017-04-17T14:37:48Z" finished-at="2017-04-17T14:38:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC009()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC009" duration-ms="5569" started-at="2017-04-08T18:13:14Z" finished-at="2017-04-08T18:13:19Z">
+        <test-method status="PASS" signature="signIn_TC009()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC009" duration-ms="4649" started-at="2017-04-17T14:38:02Z" finished-at="2017-04-17T14:38:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC009 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="543" started-at="2017-04-08T18:13:19Z" finished-at="2017-04-08T18:13:20Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="315" started-at="2017-04-17T14:38:07Z" finished-at="2017-04-17T14:38:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14692" started-at="2017-04-08T18:13:20Z" finished-at="2017-04-08T18:13:35Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14421" started-at="2017-04-17T14:38:07Z" finished-at="2017-04-17T14:38:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC010()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC010" duration-ms="4939" started-at="2017-04-08T18:13:35Z" finished-at="2017-04-08T18:13:40Z">
+        <test-method status="PASS" signature="signIn_TC010()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC010" duration-ms="3716" started-at="2017-04-17T14:38:22Z" finished-at="2017-04-17T14:38:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC010 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="502" started-at="2017-04-08T18:13:40Z" finished-at="2017-04-08T18:13:40Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="344" started-at="2017-04-17T14:38:25Z" finished-at="2017-04-17T14:38:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="15383" started-at="2017-04-08T18:13:40Z" finished-at="2017-04-08T18:13:55Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="12371" started-at="2017-04-17T14:38:26Z" finished-at="2017-04-17T14:38:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC011()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC011" duration-ms="9286" started-at="2017-04-08T18:13:55Z" finished-at="2017-04-08T18:14:05Z">
+        <test-method status="PASS" signature="signIn_TC011()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC011" duration-ms="9206" started-at="2017-04-17T14:38:38Z" finished-at="2017-04-17T14:38:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC011 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="541" started-at="2017-04-08T18:14:05Z" finished-at="2017-04-08T18:14:05Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="373" started-at="2017-04-17T14:38:47Z" finished-at="2017-04-17T14:38:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="17613" started-at="2017-04-08T18:14:05Z" finished-at="2017-04-08T18:14:23Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="12790" started-at="2017-04-17T14:38:48Z" finished-at="2017-04-17T14:39:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC012()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC012" duration-ms="3523" started-at="2017-04-08T18:14:23Z" finished-at="2017-04-08T18:14:26Z">
+        <test-method status="PASS" signature="signIn_TC012()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC012" duration-ms="3504" started-at="2017-04-17T14:39:01Z" finished-at="2017-04-17T14:39:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC012 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="512" started-at="2017-04-08T18:14:26Z" finished-at="2017-04-08T18:14:27Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="424" started-at="2017-04-17T14:39:04Z" finished-at="2017-04-17T14:39:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="15725" started-at="2017-04-08T18:14:27Z" finished-at="2017-04-08T18:14:43Z">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="BeforeMethod" is-config="true" duration-ms="14253" started-at="2017-04-17T14:39:04Z" finished-at="2017-04-17T14:39:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="signIn_TC013()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC013" duration-ms="1246" started-at="2017-04-08T18:14:43Z" finished-at="2017-04-08T18:14:44Z">
+        <test-method status="PASS" signature="signIn_TC013()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="signIn_TC013" duration-ms="1447" started-at="2017-04-17T14:39:19Z" finished-at="2017-04-17T14:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signIn_TC013 -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="436" started-at="2017-04-08T18:14:44Z" finished-at="2017-04-08T18:14:44Z">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterMethod" is-config="true" duration-ms="287" started-at="2017-04-17T14:39:20Z" finished-at="2017-04-17T14:39:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterSuite" is-config="true" duration-ms="2153" started-at="2017-04-08T18:14:44Z" finished-at="2017-04-08T18:14:47Z">
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:com.utc.flowershop.testcase.TestCase_LogIn@3f2a3a5]" name="AfterSuite" is-config="true" duration-ms="1110" started-at="2017-04-17T14:39:21Z" finished-at="2017-04-17T14:39:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->

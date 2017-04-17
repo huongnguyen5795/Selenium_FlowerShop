@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="286.721" tests="13" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="247.511" tests="13" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_101\bin"/>
@@ -27,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="D:\Nam4ky2\NCKH\Code\selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5354009180686824610.tmp"/>
+    <property name="classworlds.conf" value="D:\Nam4ky2\NCKH\Code\selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8707151686544111612.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1258"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_101\bin;D:\Nam4ky2\download\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\Skype\Phone\;D:\Nam4ky2\download\eclipse-jee-mars-R-win32-x86_64\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_101/bin/../jre/lib/amd64;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_101\bin;D:\Nam4ky2\download\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files (x86)\Skype\Phone\;C:\SeleniumDriver\chromedriver.exe;D:\Nam4ky2\download\eclipse-jee-mars-R-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,17 +62,17 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="signIn_TC001" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.082"/>
-  <testcase name="signIn_TC002" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.329"/>
-  <testcase name="signIn_TC003" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.233"/>
-  <testcase name="signIn_TC004" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="2.239"/>
-  <testcase name="signIn_TC005" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.905"/>
-  <testcase name="signIn_TC006" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.188"/>
-  <testcase name="signIn_TC007" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.409"/>
-  <testcase name="signIn_TC008" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.307"/>
-  <testcase name="signIn_TC009" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.568"/>
-  <testcase name="signIn_TC010" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.94"/>
-  <testcase name="signIn_TC011" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="9.285"/>
-  <testcase name="signIn_TC012" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.519"/>
-  <testcase name="signIn_TC013" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.244"/>
+  <testcase name="signIn_TC001" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="2.135"/>
+  <testcase name="signIn_TC002" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.388"/>
+  <testcase name="signIn_TC003" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.36"/>
+  <testcase name="signIn_TC004" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="2.086"/>
+  <testcase name="signIn_TC005" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.68"/>
+  <testcase name="signIn_TC006" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="2.409"/>
+  <testcase name="signIn_TC007" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.86"/>
+  <testcase name="signIn_TC008" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="5.597"/>
+  <testcase name="signIn_TC009" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="4.644"/>
+  <testcase name="signIn_TC010" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.715"/>
+  <testcase name="signIn_TC011" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="9.203"/>
+  <testcase name="signIn_TC012" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="3.499"/>
+  <testcase name="signIn_TC013" classname="com.utc.flowershop.testcase.TestCase_LogIn" time="1.444"/>
 </testsuite>
